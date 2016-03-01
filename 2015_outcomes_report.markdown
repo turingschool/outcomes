@@ -170,6 +170,8 @@ The data used in this study along with the calculation results can be found here
 
 I regret that limitations of Google Spreadsheets prevent us from easily sharing the one public-ready sheet without exposing the sheets with private information. Hopefully these files can be useful to the curious.
 
+Note that data about tuition/payment plans is omitted from the data set as there was no way to keep it meaningful but hide the privacy of our lending partners, scholarship/referral partners, etc.
+
 ### Changes, Errors, Corrections, and Questions
 
 As new data comes in from students, errors are found in the calculations, or other data questions arise this report may be edited and updated. Questions or corrections can be sent to contact@turing.io
