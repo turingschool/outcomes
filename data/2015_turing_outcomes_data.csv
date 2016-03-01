@@ -1,0 +1,158 @@
+Student ID,Outcome,Reason,Job Seeking,Previous Salary,New Salary,Salary Delta,Filtered New Salary,Filtered Salary Delta,Delta when Below 60K,Repeated a Module,Filtered Repeated,,Gender Identity,Filtered Gender,Racial Identity,Filtered Racial,,Veteran Status,Filtered Veteran,,Highest Degree,Filtered W/O Degree,,Job Hunt Length,Filtered Job Hunt,,Job Title,Filtered Job Title
+8,graduated,,Yes,"$24,000","$75,000","$51,000","$75,000","$51,000","$51,000",None,None,,Male,Male,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,0-30 days,0-30 days,,Associate Engineer,Associate Engineer
+13,graduated,,Yes,"$24,000","$67,500","$43,500","$67,500","$43,500","$43,500",None,None,,Male,Male,White,White,,No,No,,Associate's degree,Associate's degree,,61-90 days,61-90 days,,Software Developer,Software Developer
+14,graduated,,Yes,"$250,000","$85,000","-$165,000","$85,000","-$165,000",,None,None,,Male,Male,Hispanic or Latino,Hispanic or Latino,,No,No,,Bachelor's degree,Bachelor's degree,,Exempt,Exempt,,Product Developer,Product Developer
+17,graduated,,Yes,"$65,000","$70,000","$5,000","$70,000","$5,000",,None,None,,Male,Male,Hispanic or Latino,Hispanic or Latino,,No,No,,Bachelor's degree,Bachelor's degree,,I received an offer before graduation,I received an offer before graduation,,Junior Developer,Junior Developer
+21,graduated,,Yes,"$12,000","$110,000","$98,000","$110,000","$98,000","$98,000",None,None,,Female,Female,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,I received an offer before graduation,I received an offer before graduation,,Software Engineer,Software Engineer
+25,graduated,,Yes,N/A,,,,,,None,None,,Male,Male,White,White,,No,No,,High School Diploma or equivalent,High School Diploma or equivalent,,61-90 days,61-90 days,,Full Stack Developer,Full Stack Developer
+30,graduated,,Yes,,,,,,,,,,Male,Male,White,White,,,,,,,,61-90 days,61-90 days,,,
+40,graduated,,Yes,"$24,000","$75,000","$51,000","$75,000","$51,000","$51,000",None,None,,Female,Female,White,White,,No,No,,Associate's degree,Associate's degree,,0-30 days,0-30 days,,Junior Software Developer,Junior Software Developer
+42,graduated,,Yes,"$95,000","$85,000","-$10,000","$85,000","-$10,000",,None,None,,Female,Female,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,I received an offer before graduation,I received an offer before graduation,,Software Developer,Software Developer
+48,graduated,,Yes,"$42,000","$110,000","$68,000","$110,000","$68,000","$68,000",None,None,,Male,Male,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,I received an offer before graduation,I received an offer before graduation,,"Software Engineer/""Senior Architect""","Software Engineer/""Senior Architect"""
+59,graduated,,Yes,"$69,245","$72,000","$2,755","$72,000","$2,755",,None,None,,Male,Male,Hispanic or Latino,Hispanic or Latino,,No,No,,Bachelor's degree,Bachelor's degree,,Exempt,Exempt,,Software Developer,Software Developer
+64,graduated,,Yes,"$72,000","$72,000",$0,"$72,000",$0,,None,None,,Male,Male,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,31-60 days,31-60 days,,Software engineer,Software engineer
+68,graduated,,Yes,"$115,000","$75,000","-$40,000","$75,000","-$40,000",,None,None,,Male,Male,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,31-60 days,31-60 days,,Solution Developer,Solution Developer
+70,graduated,,Yes,"$45,000","$60,000","$15,000","$60,000","$15,000","$15,000",None,None,,Male,Male,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,31-60 days,31-60 days,,Software Engineer,Software Engineer
+71,did not finish,employed,Yes,"$60,000","$75,000","$15,000",,,,Repeated one module,,,Female,,White,,,No,,,Bachelor's degree,,,I received an offer before graduation,,,Looking for a jerb ,
+75,graduated,,Yes,"$42,000","$65,000","$23,000","$65,000","$23,000","$23,000",None,None,,Male,Male,"White, Native American or American indian","White, Native American or American indian",,No,No,,Master's degree,Master's degree,,61-90 days,61-90 days,,Software Developer,Software Developer
+80,graduated,,Yes,"$40,000","$80,000","$40,000","$80,000","$40,000","$40,000",None,None,,Male,Male,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,I received an offer before graduation,I received an offer before graduation,,Frontend Engineer,Frontend Engineer
+83,graduated,,Yes,"$72,000","$80,000","$8,000","$80,000","$8,000",,None,None,,Male,Male,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,I received an offer before graduation,I received an offer before graduation,,Software Engineer,Software Engineer
+98,graduated,,Yes,,,,,,,,,,Male,Male,White,White,,Yes,Yes,,,,,61-90 days,61-90 days,,,
+103,graduated,,Yes,"$38,000","$65,000","$27,000","$65,000","$27,000","$27,000",None,None,,Female,Female,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,0-30 days,0-30 days,,Software Developer,Software Developer
+113,graduated,,Yes,"$25,000","$65,000","$40,000","$65,000","$40,000","$40,000",None,None,,Male,Male,Hispanic or Latino,Hispanic or Latino,,No,No,,Bachelor's degree,Bachelor's degree,,61-90 days,61-90 days,,QA Engineer,QA Engineer
+114,graduated,,Yes,"$36,000","$88,000","$52,000","$88,000","$52,000","$52,000",None,None,,Male,Male,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,0-30 days,0-30 days,,Developer,Developer
+116,graduated,,Yes,"$27,000","$88,000","$61,000","$88,000","$61,000","$61,000",None,None,,Male,Male,White,White,,No,No,,Master's degree,Master's degree,,61-90 days,61-90 days,,Team Lead/Full-Stack Developer,Team Lead/Full-Stack Developer
+167,finished,academic drop out,,,,,,,,,,,Female,,Asian/Pacific Islander,,,,,,,,,,,,,
+177,graduated,,Yes,"$11,000","$80,000","$69,000","$80,000","$69,000","$69,000",None,None,,Male,Male,White,White,,No,No,,Some additional training; incomplete degree or certification,Some additional training; incomplete degree or certification,,90+ days,90+ days,,"Senior Agile Developer (real title, no joke)","Senior Agile Developer (real title, no joke)"
+222,graduated,,Yes,"$65,000","$75,000","$10,000","$75,000","$10,000",,None,None,,Male,Male,White,White,,No,No,,Master's degree,Master's degree,,I received an offer before graduation,I received an offer before graduation,,Web Developer,Web Developer
+257,graduated,,Yes,"$50,000","$50,000",$0,"$50,000",$0,$0,None,None,,Male,Male,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,90+ days,90+ days,,Junior Application Developer,Junior Application Developer
+261,graduated,,Yes,,,,,,,,,,Male,Male,White,White,,,,,,,,No Offers or Did Not Seek,No Offers or Did Not Seek,,,
+267,graduated,,Yes,"$60,000","$110,000","$50,000","$110,000","$50,000",,None,None,,Male,Male,Asian/Pacific Islander,Asian/Pacific Islander,,No,No,,Bachelor's degree,Bachelor's degree,,I received an offer before graduation,I received an offer before graduation,,Software Engineer,Software Engineer
+276,graduated,,Yes,"$65,000","$70,000","$5,000","$70,000","$5,000",,None,None,,Male,Male,White,White,,No,No,,Master's degree,Master's degree,,Exempt,Exempt,,Full Stack Software Developer,Full Stack Software Developer
+278,graduated,,Yes,"$39,000","$65,000","$26,000","$65,000","$26,000","$26,000",None,None,,Male,Male,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,31-60 days,31-60 days,,Developer,Developer
+299,expelled,student harassment,,,,,,,,,,,Female,,White,,,,,,,,,,,,,
+300,graduated,,Yes,"$85,000","$70,000","-$15,000","$70,000","-$15,000",,None,None,,Male,Male,Asian/Pacific Islander,Asian/Pacific Islander,,No,No,,Bachelor's degree,Bachelor's degree,,90+ days,90+ days,,Resident Apprentice,Resident Apprentice
+303,graduated,,Yes,"$30,000","$90,000","$60,000","$90,000","$60,000","$60,000",None,None,,Female,Female,White,White,,No,No,,High School Diploma or equivalent,High School Diploma or equivalent,,I received an offer before graduation,I received an offer before graduation,,Software engineer,Software engineer
+308,graduated,,Yes,"$45,000","$80,000","$35,000","$80,000","$35,000","$35,000",None,None,,Male,Male,"White, Hispanic or Latino","White, Hispanic or Latino",,No,No,,Bachelor's degree,Bachelor's degree,,0-30 days,0-30 days,,Software Developer,Software Developer
+312,graduated,,Yes,"$42,000","$75,000","$33,000","$75,000","$33,000","$33,000",None,None,,Male,Male,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,61-90 days,61-90 days,,Developer,Developer
+320,graduated,,Yes,,,,,,,,,,Female,Female,White,White,,,,,,,,61-90 days,61-90 days,,,
+371,graduated,,Yes,"$65,000","$70,000","$5,000","$70,000","$5,000",,None,None,,Male,Male,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,31-60 days,31-60 days,,Software Engineer,Software Engineer
+390,graduated,,Yes,"$26,000","$51,000","$25,000","$51,000","$25,000","$25,000",None,None,,Female,Female,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,31-60 days,31-60 days,,Web Developer,Web Developer
+426,graduated,,Yes,"$22,000","$65,000","$43,000","$65,000","$43,000","$43,000",None,None,,Female,Female,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,31-60 days,31-60 days,,Front-end engineer,Front-end engineer
+455,graduated,,Yes,"$52,000","$70,000","$18,000","$70,000","$18,000","$18,000",None,None,,Male,Male,White,White,,No,No,,Master's degree,Master's degree,,0-30 days,0-30 days,,Software Engineer,Software Engineer
+459,graduated,,Yes,"$40,000","$68,000","$28,000","$68,000","$28,000","$28,000",None,None,,Male,Male,Asian/Pacific Islander,Asian/Pacific Islander,,No,No,,Bachelor's degree,Bachelor's degree,,0-30 days,0-30 days,,Software Developer,Software Developer
+462,graduated,,Yes,,,,,,,,,,Male,Male,White,White,,,,,,,,Exempt,Exempt,,,
+467,graduated,,Yes,"$42,000",,,,,,None,None,,Male,Male,Other,Other,,No,No,,Bachelor's degree,Bachelor's degree,,Exempt,Exempt,,funemployed,funemployed
+476,graduated,,Yes,"$15,000",,,,,,None,None,,Female,Female,White,White,,No,No,,Master's degree,Master's degree,,Exempt,Exempt,,Software developer,Software developer
+490,did not finish,academic drop out,,,,,,,,,,,Female,,White,,,,,,,,,,,,,
+491,graduated,,Yes,"$2,000","$38,000","$36,000","$38,000","$36,000","$36,000",None,None,,Male,Male,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,61-90 days,61-90 days,,None,None
+494,graduated,,Yes,"$32,000","$60,000","$28,000","$60,000","$28,000","$28,000",Repeated one module,Repeated one module,,Male,Male,Other,Other,,No,No,,Bachelor's degree,Bachelor's degree,,0-30 days,0-30 days,,QA Engineer,QA Engineer
+497,graduated,,Yes,"$18,000","$75,000","$57,000","$75,000","$57,000","$57,000",None,None,,Male,Male,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,31-60 days,31-60 days,,Software Engineer,Software Engineer
+503,did not finish,academic drop out,,,,,,,,,,,Female,,White,,,,,,,,,,,,,
+506,graduated,,Yes,"$23,000","$80,000","$57,000","$80,000","$57,000","$57,000",None,None,,Male,Male,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,90+ days,90+ days,,Software Engineer,Software Engineer
+509,graduated,,Yes,,"$78,000","$78,000","$78,000","$78,000","$78,000",None,None,,Male,Male,Hispanic or Latino,Hispanic or Latino,,No,No,,Bachelor's degree,Bachelor's degree,,31-60 days,31-60 days,,Software Engineer,Software Engineer
+510,did not finish,employed,Yes,"$42,000","$71,000","$29,000",,,"$29,000",None,,,Male,,White,,,No,,,Some additional training; incomplete degree or certification,,,0-30 days,,,Full Stack Developer,
+519,graduated,,Yes,"$80,000","$90,000","$10,000","$90,000","$10,000",,None,None,,Female,Female,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,0-30 days,0-30 days,,Software Engineer,Software Engineer
+521,graduated,,Yes,"$57,000","$68,000","$11,000","$68,000","$11,000","$11,000",Repeated more than one module,Repeated more than one module,,Female,Female,Black or African American,Black or African American,,No,No,,Master's degree,Master's degree,,61-90 days,61-90 days,,Junior Developer,Junior Developer
+525,graduated,,Yes,"$20,000","$75,000","$55,000","$75,000","$55,000","$55,000",None,None,,Female,Female,Asian/Pacific Islander,Asian/Pacific Islander,,No,No,,Bachelor's degree,Bachelor's degree,,0-30 days,0-30 days,,Software Developer II,Software Developer II
+528,graduated,,Yes,$0,"$80,000","$80,000","$80,000","$80,000","$80,000",None,None,,Male,Male,Black or African American,Black or African American,,No,No,,High School Diploma or equivalent,High School Diploma or equivalent,,90+ days,90+ days,,Junior Software Engineer,Junior Software Engineer
+529,did not finish,early drop / bad fit,,,,,,,,,,,Male,,White,,,,,,,,,,,,,
+541,graduated,,Yes,"$37,000","$90,000","$53,000","$90,000","$53,000","$53,000",None,None,,Male,Male,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,0-30 days,0-30 days,,Software Engineer,Software Engineer
+544,graduated,,Yes,"$24,000","$65,000","$41,000","$65,000","$41,000","$41,000",None,None,,Male,Male,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,0-30 days,0-30 days,,DevOps Engineer,DevOps Engineer
+546,graduated,,Yes,"$65,000","$73,000","$8,000","$73,000","$8,000",,Repeated one module,Repeated one module,,Male,Male,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,90+ days,90+ days,,Software Developer,Software Developer
+548,graduated,,Yes,"$82,000","$70,000","-$12,000","$70,000","-$12,000",,None,None,,Male,Male,Asian/Pacific Islander,Asian/Pacific Islander,,,,,Some additional training; incomplete degree or certification,Some additional training; incomplete degree or certification,,I received an offer before graduation,I received an offer before graduation,,Assistant Instructor,Assistant Instructor
+555,graduated,,Yes,"$50,000","$73,000","$23,000","$73,000","$23,000","$23,000",None,None,,Female,Female,White,White,,No,No,,Master's degree,Master's degree,,I received an offer before graduation,I received an offer before graduation,,Software Developer,Software Developer
+567,graduated,,Yes,$0,"$40,000","$40,000","$40,000","$40,000","$40,000",None,None,,Male,Male,White,White,,No,No,,High School Diploma or equivalent,High School Diploma or equivalent,,90+ days,90+ days,,developer,developer
+570,graduated,,Yes,"$27,000",,,,,,None,None,,Male,Male,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,61-90 days,61-90 days,,none,none
+576,graduated,,Yes,$0,"$70,000","$70,000","$70,000","$70,000","$70,000",None,None,,Female,Female,Asian/Pacific Islander,Asian/Pacific Islander,,No,No,,Master's degree,Master's degree,,0-30 days,0-30 days,,Developer,Developer
+577,finished,employed,Yes,"$40,000","$70,000","$30,000",,,"$30,000",None,,,Female,,White,,,No,,,Bachelor's degree,,,Did not graduate,,,Junior Software Engineer,
+586,graduated,,Yes,"$60,000","$65,000","$5,000","$65,000","$5,000",,None,None,,Female,Female,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,I received an offer before graduation,I received an offer before graduation,,Software Developer,Software Developer
+588,graduated,,Yes,"$30,000","$90,000","$60,000","$90,000","$60,000","$60,000",None,None,,Female,Female,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,31-60 days,31-60 days,,Junior Rubyist,Junior Rubyist
+603,graduated,,Yes,"$40,000","$75,000","$35,000","$75,000","$35,000","$35,000",None,None,,Male,Male,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,31-60 days,31-60 days,,Junior Rails Developer,Junior Rails Developer
+610,graduated,,Yes,,,,,,,,,,Male,Male,White,White,,,,,,,,,,,,
+612,graduated,,Yes,"$32,000","$73,000","$41,000","$73,000","$41,000","$41,000",None,None,,Male,Male,White,White,,No,No,,Some additional training; incomplete degree or certification,Some additional training; incomplete degree or certification,,0-30 days,0-30 days,,Developer,Developer
+614,graduated,,Yes,"$40,000","$65,000","$25,000","$65,000","$25,000","$25,000",Repeated one module,Repeated one module,,Male,Male,"White, Native American or American indian","White, Native American or American indian",,No,No,,Bachelor's degree,Bachelor's degree,,61-90 days,61-90 days,,Software Engineer,Software Engineer
+617,did not finish,employed,Yes,"$30,000","$68,640","$38,640",,,"$38,640",None,,,Male,,White,,,No,,,High School Diploma or equivalent,,,I received an offer before graduation,,,Junior Software Engineer,
+624,did not finish,academic drop out,,,,,,,,,,,Male,,Hispanic or Latino,,,,,,,,,,,,,
+631,graduated,,Yes,"$50,000","$75,000","$25,000","$75,000","$25,000","$25,000",None,None,,Female,Female,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,I received an offer before graduation,I received an offer before graduation,,Software Engineer,Software Engineer
+632,graduated,,Yes,$0,"$90,000","$90,000","$90,000","$90,000","$90,000",None,None,,Male,Male,Hispanic or Latino,Hispanic or Latino,,No,No,,Some additional training; incomplete degree or certification,Some additional training; incomplete degree or certification,,I received an offer before graduation,I received an offer before graduation,,Junior Dev (Web and Mobile),Junior Dev (Web and Mobile)
+639,graduated,,Yes,"$25,000","$70,000","$45,000","$70,000","$45,000","$45,000",None,None,,Male,Male,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,61-90 days,61-90 days,,Software Engineer,Software Engineer
+643,graduated,,Yes,"$68,000","$75,000","$7,000","$75,000","$7,000",,None,None,,Female,Female,Black or African American,Black or African American,,No,No,,Bachelor's degree,Bachelor's degree,,0-30 days,0-30 days,,Developer,Developer
+647,did not finish,early drop / bad fit,,,,,,,,,,,Male,,White,,,,,,,,,,,,,
+650,graduated,,Yes,"$50,000","$90,000","$40,000","$90,000","$40,000","$40,000",None,None,,Male,Male,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,0-30 days,0-30 days,,Software Engineer,Software Engineer
+651,graduated,,Yes,$0,"$73,000","$73,000","$73,000","$73,000","$73,000",None,None,,Female,Female,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,0-30 days,0-30 days,,Software Developer,Software Developer
+660,graduated,,Yes,"$32,000","$65,000","$33,000","$65,000","$33,000","$33,000",None,None,,Female,Female,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,I received an offer before graduation,I received an offer before graduation,,Software Developer,Software Developer
+693,graduated,,Yes,"$35,000","$70,000","$35,000","$70,000","$35,000","$35,000",None,None,,Male,Male,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,90+ days,90+ days,,QA Engineer,QA Engineer
+694,did not finish,early drop / bad fit,,,,,,,,,,,Male,,White,,,,,,,,,,,,,
+700,graduated,,Yes,"$110,000","$51,000","-$59,000","$51,000","-$59,000",,None,None,,Male,Male,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,31-60 days,31-60 days,,Software Developer,Software Developer
+701,finished,academic drop out,Yes,"$6,433",,,,,,None,,,Male,,White,,,No,,,Bachelor's degree,,,Did not graduate,,,Web designer / developer,
+707,graduated,,Yes,"$55,000","$85,000","$30,000","$85,000","$30,000","$30,000",None,None,,Male,Male,Asian/Pacific Islander,Asian/Pacific Islander,,No,No,,Bachelor's degree,Bachelor's degree,,I received an offer before graduation,I received an offer before graduation,,Software Developer,Software Developer
+732,did not finish,elective drop out,Yes,,,,,,,,,,Male,,White,,,,,,,,,,,,,
+742,graduated,,Yes,"$65,000",,,,,,Repeated more than one module,Repeated more than one module,,Male,Male,White,White,,Yes,Yes,,Some additional training; incomplete degree or certification,Some additional training; incomplete degree or certification,,Recent Grad,Recent Grad,,Unemployed,Unemployed
+770,did not finish,early drop / bad fit,,,,,,,,,,,Male,,White,,,,,,,,,,,,,
+774,graduated,,Yes,"$63,500","$70,000","$6,500","$70,000","$6,500",,None,None,,Male,Male,White,White,,No,No,,Master's degree,Master's degree,,31-60 days,31-60 days,,Site Content Engineer,Site Content Engineer
+777,graduated,,Yes,$0,"$95,000","$95,000","$95,000","$95,000","$95,000",None,None,,Male,Male,White,White,,No,No,,Some additional training; incomplete degree or certification,Some additional training; incomplete degree or certification,,90+ days,90+ days,,Frontend Software Developer,Frontend Software Developer
+789,graduated,,Yes,"$23,000","$70,000","$47,000","$70,000","$47,000","$47,000",None,None,,Male,Male,White,White,,No,No,,Some additional training; incomplete degree or certification,Some additional training; incomplete degree or certification,,I received an offer before graduation,I received an offer before graduation,,Assistant Instructor,Assistant Instructor
+793,graduated,,Yes,"$42,000","$80,000","$38,000","$80,000","$38,000","$38,000",None,None,,Male,Male,Asian/Pacific Islander,Asian/Pacific Islander,,No,No,,Bachelor's degree,Bachelor's degree,,61-90 days,61-90 days,,Software Developer,Software Developer
+801,graduated,,Yes,"$150,000","$80,000","-$70,000","$80,000","-$70,000",,Repeated more than one module,Repeated more than one module,,Male,Male,Asian/Pacific Islander,Asian/Pacific Islander,,Yes,Yes,,Master's degree,Master's degree,,0-30 days,0-30 days,,Associate Software Engineer,Associate Software Engineer
+803,graduated,,Yes,"$24,000","$54,000","$30,000","$54,000","$30,000","$30,000",None,None,,Male,Male,White,White,,No,No,,High School Diploma or equivalent,High School Diploma or equivalent,,90+ days,90+ days,,Software Developer,Software Developer
+804,finished,employed,Yes,"$40,000","$75,000","$35,000",,,"$35,000",None,,,Female,,Asian/Pacific Islander,,,No,,,Bachelor's degree,,,I received an offer before graduation,,,Associate software developer ,
+809,graduated,,Yes,"$37,500","$70,000","$32,500","$70,000","$32,500","$32,500",None,None,,Female,Female,White,White,,No,No,,Associate's degree,Associate's degree,,I received an offer before graduation,I received an offer before graduation,,Associate Software Engineer,Associate Software Engineer
+835,did not finish,employed,Yes,,,,,,,,,,Female,,White,,,,,,,,,,,,,
+849,graduated,,Yes,"$75,000",n/a,,,,,Repeated one module,Repeated one module,,Male,Male,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,I received an offer before graduation,I received an offer before graduation,,partner,partner
+851,graduated,,Yes,"$44,000","$90,000","$46,000","$90,000","$46,000","$46,000",None,None,,Male,Male,Asian/Pacific Islander,Asian/Pacific Islander,,No,No,,Bachelor's degree,Bachelor's degree,,61-90 days,61-90 days,,junior developer,junior developer
+858,did not finish,academic drop out,,,,,,,,,,,Male,,White,,,,,,,,,,,,,
+915,did not finish,academic drop out,,,,,,,,,,,Female,,White,,,,,,,,,,,,,
+919,graduated,,Yes,"$75,000","$95,000","$20,000","$95,000","$20,000",,None,None,,Male,Male,White,White,,No,No,,Master's degree,Master's degree,,I received an offer before graduation,I received an offer before graduation,,Research Associate,Research Associate
+924,graduated,,Yes,"$20,000","$60,000","$40,000","$60,000","$40,000","$40,000",None,None,,Female,Female,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,I received an offer before graduation,I received an offer before graduation,,Assistant Instructor,Assistant Instructor
+949,finished,academic drop out,Yes,"$60,000",,,,,,Repeated more than one module,,,Male,,Black or African American,,,No,,,Bachelor's degree,,,Did not graduate,,,God,
+963,graduated,,Yes,"$25,000",,,,,,None,None,,Female,Female,Hispanic or Latino,Hispanic or Latino,,No,No,,Trade or vocational certification,Trade or vocational certification,,No Offers or Did Not Seek,No Offers or Did Not Seek,,0,0
+979,graduated,,Yes,,,,,,,,,,Male,Male,White,White,,Yes,Yes,,,,,31-60 days,31-60 days,,,
+986,enrolled,,,,,,,,,,,,Male,,White,,,,,,,,,,,,,
+987,graduated,,Yes,"$45,000","$65,000","$20,000","$65,000","$20,000","$20,000",None,None,,Female,Female,"Asian/Pacific Islander, Other","Asian/Pacific Islander, Other",,No,No,,Bachelor's degree,Bachelor's degree,,I received an offer before graduation,I received an offer before graduation,,Junior software developer,Junior software developer
+989,did not finish,academic drop out,Yes,"$72,000",,,,,,Repeated more than one module,,,Male,,White,,,No,,,Some additional training; incomplete degree or certification,,,Did not graduate,,,none,
+1008,graduated,,Yes,"$30,000","$65,000","$35,000","$65,000","$35,000","$35,000",None,None,,Female,Female,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,31-60 days,31-60 days,,Junior Software Developer,Junior Software Developer
+1011,finished,employed,Yes,,,,,,,,,,Male,,White,,,,,,,,,,,,,
+1020,did not finish,elective drop out,No,"$29,000",,,,,,None,,,Male,,White,,,No,,,Bachelor's degree,,,Did not graduate,,,NA,
+1037,graduated,,Yes,"$20,000",,,,,,None,None,,Male,Male,White,White,,No,No,,High School Diploma or equivalent,High School Diploma or equivalent,,90+ days,90+ days,,N/A,N/A
+1074,enrolled,,,,,,,,,,,,Male,,White,,,,,,,,,,,,,
+1108,graduated,,Yes,"$48,000","$72,000","$24,000","$72,000","$24,000","$24,000",None,None,,Male,Male,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,0-30 days,0-30 days,,Jr. Full Stack Developer,Jr. Full Stack Developer
+1118,graduated,,Yes,"$80,000","$68,500","-$11,500","$68,500","-$11,500",,None,None,,Male,Male,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,0-30 days,0-30 days,,Junior Software Developer,Junior Software Developer
+1120,graduated,,Yes,"$27,000",,,,,,None,None,,Male,Male,White,White,,No,No,,Associate's degree,Associate's degree,,61-90 days,61-90 days,,TBD,TBD
+1163,graduated,,Yes,"$22,000",,,,,,Repeated more than one module,Repeated more than one module,,Male,Male,White,White,,No,No,,Some additional training; incomplete degree or certification,Some additional training; incomplete degree or certification,,Recent Grad,Recent Grad,,N/A,N/A
+1205,graduated,,Yes,"$45,000","$95,000","$50,000","$95,000","$50,000","$50,000",None,None,,Male,Male,White,White,,No,No,,Master's degree,Master's degree,,61-90 days,61-90 days,,Software Developer,Software Developer
+1228,graduated,,Yes,"$40,000","$100,000","$60,000","$100,000","$60,000","$60,000",None,None,,Female,Female,Asian/Pacific Islander,Asian/Pacific Islander,,No,No,,Bachelor's degree,Bachelor's degree,,0-30 days,0-30 days,,unemployed,unemployed
+1266,did not finish,academic drop out,,,,,,,,,,,Female,,White,,,,,,,,,,,,,
+1283,graduated,,Yes,"$72,000","$82,000","$10,000","$82,000","$10,000",,None,None,,Male,Male,Asian/Pacific Islander,Asian/Pacific Islander,,No,No,,Bachelor's degree,Bachelor's degree,,61-90 days,61-90 days,,Developer,Developer
+1288,graduated,,Yes,$0,"$70,000","$70,000","$70,000","$70,000","$70,000",None,None,,Female,Female,White,White,,No,No,,Some additional training; incomplete degree or certification,Some additional training; incomplete degree or certification,,I received an offer before graduation,I received an offer before graduation,,Teaching Assistant ,Teaching Assistant 
+1294,expelled,academic dishonesty,Yes,,,,,,,,,,Male,,White,,,,,,,,,,,,,
+1362,graduated,,Yes,"$75,000","$75,000",$0,"$75,000",$0,,None,None,,Male,Male,White,White,,No,No,,Bachelor's degree,Bachelor's degree,,0-30 days,0-30 days,,Software Engineer,Software Engineer
+1377,enrolled,,,,,,,,,,,,Female,,White,,,,,,,,,,,,,
+1390,enrolled,,Yes,"$70,000",,,,,,Repeated one module,,,Male,,White,,,No,,,Bachelor's degree,,,No Offers or Did Not Seek,,,N/A,
+1441,did not finish,employed,Yes,"$95,000","$70,000","-$25,000",,,,None,,,Male,,White,,,Yes,,,Bachelor's degree,,,I received an offer before graduation,,,Junior Software Engineer,
+1443,did not finish,academic drop out,,,,,,,,,,,Male,,White,,,Yes,,,,,,,,,,
+1471,did not finish,academic drop out,,,,,,,,,,,Male,,White,,,,,,,,,,,,,
+1485,finished,academic drop out,,,,,,,,,,,Male,,White,,,,,,,,,,,,,
+1497,did not finish,academic drop out,,,,,,,,,,,Male,,White,,,,,,,,,,,,,
+1527,did not finish,employed,No,$0,"$75,000","$75,000",,,"$75,000",None,,,Male,,White,,,No,,,Bachelor's degree,,,Did not graduate,,,Software Engineer,
+,,,,,91,,,,64,No module repeats,86,91.49%,,,,,,,,,,,,,,,,
+,,,,Averages:,"$74,447","$33,195","$74,643","$33,216","$44,729",Repeated 1 module,4,4.26%,,,,,,,,,,,,,,,,
+,,,,,,,,,,Repeated >1 module,4,4.26%,,,,,,,,,,,,,,,,
+,total:,136,,,,,,,,,,,Enrollees,Grads,,Enrollees,Grads,,Enrollees,Grads,,Enrollees,Grads,Seekers,95,,,
+,enrolled,4,,,,,,,,,,Male,98,74,White,104,73,Veteran,6,4,With 4 Year,83,74,Before Grad,23,24.21%,,
+,not-enrolled,132,,,,,,,,,,Female,38,27,Non-White,32,28,Non-Veteran,130,91,Without 4 Year,22,19,w/in 30,46,48.42%,,
+,graduated:,101,,76.52%,,,,,,,,Male %,72.06%,73.27%,White %,76.47%,72.28%,Veteran %,4.41%,4.21%,With 4 Year %,79.05%,79.57%,w/in 60,61,64.21%,,
+,finished w/o grad,7,,5.30%,,,,,,,,Female %,27.94%,26.73%,Non-White %,23.53%,27.72%,Non-Veteran %,95.59%,95.79%,Without 4 %,20.95%,20.43%,w/in 90,80,84.21%,,
+,expelled,2,,1.52%,,,,,,,,138,,,,,,,,,,,,90+,91,95.79%,,
+,did not finish,22,,16.67%,,,,,,,,,,,,,,,,,,,,No Offers,2,2.11%,,
+,,,,,,,,,,,,,,,,,,,,,,,,Recent Grad,2,2.11%,,
+,Why didn't they graduate?,,,% of Non-Grads,% of Overall,,,,,,,,,,,,,,,,,,,,,,,
+,finished + dnf,29,,,,,,,,,,,,,,,,,,,,,,W/O Grad,9,,,
+,employed,9,,31.03%,6.82%,,,,,,,,,,,,,,,,,,,Seekers,104,,,
+,academic drop out,14,,48.28%,10.61%,,,,,,,,,,,,,,,,,,,Before Grad,32,30.77%,,
+,early drop / bad fit,4,,13.79%,3.03%,,,,,,,,,,,,,,,,,,,w/in 30,55,52.88%,,
+,elective drop out,2,,6.90%,1.52%,,,,,,,,,,,,,,,,,,,w/in 60,70,67.31%,,
+,,,,,,,,,,,,,,,,,,,,,,,,w/in 90,89,85.58%,,
+,Grads + Employed,110,,,83.33%,,,,,,,,,,,,,,,,,,,90+,100,96.15%,,
+,,,,,,,,,,,,,,,,,,,,,,,,No Offers,2,1.92%,,
+,,,,,,,,,,,,,,,,,,,,,,,,Recent Grad,2,1.92%,,
