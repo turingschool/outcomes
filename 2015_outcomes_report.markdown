@@ -1,8 +1,16 @@
-The [Turing School of Software & Design](http://turing.io) is a 501(c)3 non-profit school located in Denver, Colorado. Our primary program focuses on Ruby, Rails, and JavaScript across four six-week semesters for a total engagement of 27 weeks.
+The [Turing School of Software & Design](http://turing.io) is a 501(c)3 non-profit school located in Denver, Colorado. Our mission is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers. We believe in a world powered by technology where the people building it represent the people using it.
+
+## 2015 Programs
+
+Turing began in June 2014. We launched with just one course of study: "Web Application Development with Ruby, Rails, and JavaScript." Our students are grouped into cohorts and the course divided into four six-week "modules" each separated by an intermission week. We begin a new cohort every seven weeks and, after the initial rampup months, run four cohorts simultaneously. The typical student is at Turing for a total of 27 weeks and our total student body numbers about 90 when classes are in session.
+
+### Why Report Data
 
 In March of 2015 we joined with a collective of other training providers to form the [New Economy Skills Training Association (NESTA)](http://thenesta.org/). That organization put together a [list of outcomes data points that member organizations would publish](https://www.dropbox.com/s/76zqbjy4ky8z29f/NESTA%20Letter%20to%20the%20POTUS.pdf?dl=0) in the future.
 
-This is the 2015 Outcomes Report for Turing. The following data represents the 1406, 1407, 1409, 1410, 1412, 1502, 1503, and 1505 cohorts of the Turing School, who graduated between December 2014 and December 2015.
+Beyond NESTA, Turing has a culture of transparency. You can find every one of our [lesson plans](https://github.com/turingschool/lesson_plans), [tutorials](https://github.com/turingschool/curriculum/tree/master/source), and even a [few hundred class videos](https://vimeo.com/turing) all published online free for non-commercial use. It only makes sense, then, to be just as transparent with our student outcomes.
+
+This is the **2015 Outcomes Report for Turing**. The following data represents the 1406, 1407, 1409, 1410, 1412, 1502, 1503, and 1505 cohorts of the Turing School, who graduated between December 2014 and December 2015.
 
 ## Completion Rates
 
