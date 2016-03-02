@@ -133,6 +133,8 @@ We encourage students to calculate the real cost of Turing. For those persons ea
 
 Then what is the timeline to payoff that investment? With an average salary delta of $44,729, those students pay off their investment in 17 months.
 
+*"Isn't that double-counting cost-of-living?"* people have asked? Here's how we're thinking about it: imagine that Turing is a terrible program. After the 27 weeks of class and two months of job hunting you end up right back in your same old job at the same old salary. In that scenario, what would you have lost? That's why the cost-of-living is counted above and the total is $64,750.
+
 ## Data & Methodology
 
 ### Where did the data come from?
