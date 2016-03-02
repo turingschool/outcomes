@@ -145,7 +145,7 @@ Then what is the timeline to payoff that investment? With an average salary delt
 
 ## Conclusions
 
-Overall, for an 18 month experiment of an institution, we are satisfied with the results. Some takeaways and intentions for the future:
+Overall, for an institution that's less than two years old, we are satisfied with the results. Some of our key takeaways and intentions for the future are:
 
 ### Diversity
 
