@@ -143,6 +143,55 @@ Then what is the timeline to payoff that investment? With an average salary delt
 
 *"Isn't that double-counting cost-of-living?"* people have asked? Here's how we're thinking about it: imagine that Turing is a terrible program. After the 27 weeks of class and two months of job hunting you end up right back in your same old job at the same old salary. In that scenario, what would you have lost? That's why the cost-of-living is counted above and the total is $64,750.
 
+## Conclusions
+
+Overall, for an 18 month experiment of an institution, we are satisfied with the results. Some takeaways and intentions for the future:
+
+### Diversity
+
+**We must attract, enroll, and graduate both more women, people of color, and veterans.**
+
+This year we'll build up stronger partnerships with old friends like [Girl Develop It](https://www.girldevelopit.com/) and [Teach for America](https://www.teachforamerica.org/). We'll begin new ones with organizations like [City Year](http://www.cityyear.org/) and [Denver Community College](https://www.ccd.edu/). In the summer of 2016 we anticipate approval from the VA to accept Post-9/11 GI Bill funding and thus open the door more widely to our veterans and their spouses/dependents. We'll also add at least two roles to our operations team and put more purposeful marketing and recruiting systems in place to ensure we're building a sustainable pipeline.
+
+### Graduation Rate
+
+**We must graduate a higher percentage of students without any sacrifice in academic rigor.**
+
+Even mixing in those who leave early due to employment, we're looking a graduation rate in the 80s. [MIT hovers in the area of 91-93%](http://web.mit.edu/ir/pop/students/graduation_rates.html). [Stanford boasts a 94% graduation rate](http://www.collegefactual.com/colleges/stanford-university/academic-life/graduation-and-retention/#). We can do better.
+
+So far in late 2015 / early 2016 we have put in place the following changes:
+
+* The "Echo"/"Foxtrot" split for the first three weeks of Module 1, [inspired by Harvey Mudd](http://qz.com/192071/how-one-college-went-from-10-female-computer-science-majors-to-40/)
+* Creation of a *Student Support Fellowship*, a six-week fellowship for a recent grad where they spend 24 hours per week pairing with our most struggling students
+* Revising our prework content to be more focused, have higher expectations, and be more easily monitored. We've also added volunteer "prework guides" (current and past students) who give one-on-one support to students before they arrive
+* Foster the growth of student interest/support groups like the Joan Clarke Society (for female students), LGBTuring, and newly the Turing Asian American Programmers. Our experience shows a clear correlation between a student's success/happiness and their depth of connection to the student community around them.
+* Revising admissions process to focus more clearly on the Turing mindset: growth, engagement, agency, empathy, and grit.
+* Increase the number of financial lending partners and diversify their offerings, including some who can now lend students funds for their cost-of-living while in the program (lightening stress/dependency on savings/other people)
+* Creation of a Community Affairs Manager role who is now able to keep a pulse on students, steer their growth, and catch warning signs more quickly
+
+With these efforts in place we seek to nearly eliminate the "Early Drop / Bad Fit" category (currently 3%) and reduce the "Academic Drop Out" (currently 10%) so combined they are the outcome for less than 8% of enrollees in 2016.
+
+### Employment Pipelines
+
+**We must help students secure high-satisfaction jobs more quickly.**
+
+Though almost all graduates find jobs they're excited about, the process is entirely too stressful for everyone involved. 60% of students accepted their first job offer. We want students to be choosing between three to five job offers, selecting the one that best aligns with their personal goals. In addition, this is our [Apollo Moon Challenge](http://history.nasa.gov/moondec.html):
+
+**Every graduate of Turing will have a signed employment contract the day they graduate.**
+
+To do that we will:
+
+* Build up our employment team (email jeff@turing.io if you'd like more information!)
+* Build up our data management tools and processes around the job hunt
+* Better track our alumni and harvest their job hunt information
+* Form sustainable partnerships with outside hiring companies, especially those who can hire X students every Y modules
+* Coordinate with economic development organizations, both within the government and outside it
+* Increase our reach beyond our personal networks through events, writing, sharing, speaking, public relations, and supporting the people and efforts around us
+* Leverage our long-time alumni as they begin to look for their second jobs, using them to open doors for current grads
+* Create a supported apprenticeship program where experienced developers on our staff assist grads in ramping up at their new jobs, thus lowering the risk for employers
+
+Through those efforts we expect to see over 80% of graduates employed within 30 days of graduation in 2016 and reach the moon challenge in 2017.
+
 ## Data & Methodology
 
 ### Where did the data come from?
@@ -161,7 +210,7 @@ Yes. The data was modified/sanitized in the following ways:
 
 ### Were the data/calculations audited?
 
-No. As a small non-profit, honestly, I can't argue why it benefits students to spend money on a meaningless audit. If we were motivated to cheat we could omit data or sneak changes past the best auditors. Instead I hope the depth and clarity of the above calculations and discussion demonstrate our commitment to transparency.
+No. As a small non-profit, honestly, I can't argue why it benefits students to spend money on a data audit. If we were motivated to cheat we could omit data or sneak changes past the best auditors. Instead I hope the depth and clarity of the above calculations and discussion demonstrate our commitment to transparency.
 
 That being said, if an appropriate entity is so motivated as to donate auditing services, we're happy to share student contact information under sufficient guards to maintain their privacy.
 
