@@ -159,7 +159,7 @@ So what if we're making this all up? Or doctoring the data? First, our admission
 
 We don't believe in hiding skeletons in the closet. Many of the numbers above are below what other programs will claim. We work hard on recruiting and selecting a diverse, capable group of students. We cram as much learning as possible into their seven months. Then we help them find great jobs and launch fantastic careers. We iterate on those processes constantly, do the best we can, and these are the results. Whatever the data says we're ok with it.
 
-If you'd like to hear is straight from the students, [read reviews on CourseReport](https://www.coursereport.com/schools/turing#/reviews).
+If you'd like to hear it straight from the students, [read reviews on CourseReport](https://www.coursereport.com/schools/turing#/reviews).
 
 ### Raw Data
 
