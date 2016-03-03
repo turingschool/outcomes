@@ -149,7 +149,7 @@ Overall, for an institution that's less than two years old, we are satisfied wit
 
 ### Diversity
 
-**We must attract, enroll, and graduate both more women, people of color, and veterans.**
+**We must attract, enroll, and graduate more women, people of color, and veterans.**
 
 This year we'll build up stronger partnerships with old friends like [Girl Develop It](https://www.girldevelopit.com/) and [Teach for America](https://www.teachforamerica.org/). We'll begin new ones with organizations like [City Year](http://www.cityyear.org/) and [Denver Community College](https://www.ccd.edu/). In the summer of 2016 we anticipate approval from the VA to accept Post-9/11 GI Bill funding and thus open the door more widely to our veterans and their spouses/dependents. We'll also add at least two roles to our operations team and put more purposeful marketing and recruiting systems in place to ensure we're building a sustainable pipeline.
 
