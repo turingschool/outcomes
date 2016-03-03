@@ -120,9 +120,9 @@ Of the five employed alumni who did not report job titles, four are known to be 
 #### Salary
 
 * average salary of employed graduates: $74,447
-* average change of yearly salary compared with previous job: $33,195
+* average increase of yearly salary compared with previous job: $33,195
 
-In addition, we looked at the salary change for persons who previously earned less than $60,000/year before attending Turing. There are 64 of those employed graduates and their average salary delta is $44,729.
+In addition, we looked at the salary increase for persons who previously earned less than $60,000/year before attending Turing. There are 64 of those employed graduates and their average salary delta is $44,729.
 
 ### Tuition
 
