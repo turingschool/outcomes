@@ -234,3 +234,9 @@ Note that data about tuition/payment plans is omitted from the data set as there
 ### Changes, Errors, Corrections, and Questions
 
 As new data comes in from students, errors are found in the calculations, or other data questions arise this report may be edited and updated. Questions or corrections can be sent to contact@turing.io
+
+#### Known Issues / Pending Changes
+
+* There's still debate about how to calculate the "real cost of Turing" but all other opinions lead to a lower total cost -- so what we have here is the most safely pessimistic
+* There are four students still enrolled, they were properly exempted from job hunt timelines, but they should have been omitted from the denominator in the calculation of graduation rates which should increase rates about 2%
+* Since the data was compiled and the report published, a few additional students have supplied their outcomes data. Each of them has favorable data that should marginally increase the average salary and decrease the time-to-employment.
