@@ -51,11 +51,11 @@ Started last module with 93 students across the four cohorts
 * 1 student re-enrolling in the program
 * 1602 begins Module 1 with 29 students
 
-## Trends
+## Trends & News
 
-Overall we are seeing:
+Things of interest to have on your radar:
 
-* things
+* We released the 2015 Outcomes Report with data from 135 students. Highlights included an 83% graduation rate, 96% finding employment within 120 days, and average salary of $75K.
 
 ## Enrollments & Admissions
 
@@ -84,22 +84,20 @@ Applications are inline with what we’ve seen in the past:
 
 ### Enrollments/Applications Pipelines
 
-This module we are working to build a better infrastructure for student recruitment. In addition we are excited to be developing new student pipelines including:
+Last module we set out to build a better infrastructure for student recruitment and
+develop new pipelines. We've made some progress, but not as much as we'd hoped:
 
-* partnering with Denver Community College on the EQUIP program
-* expecting approval from the VA to accept GI Bill funding for vets & spouses
-* working with several charitable organizations to facilitate admissions and support for persons with refugee status in the US from Iraq, Syria, and Afghanistan
+* our letter of intent for the Department of Education's EQUIP program in partnership
+with Denver Community College was denied based on DCC's struggles with student graduation rates
+* we have good indicators from the VA to accept GI Bill funding for vets & spouses once we hit the two-year mark this summer
+* progress has been slow in the effort to bring in and support refugee students
+* one or our advisors, Morris Price, has become the Executive Director of City Year in Colorado and we're working out ways for Turing to be a next-step after City Year and to recruit from their community
 
-We’re also rebooting/growing existing efforts including:
+We've improved some of our existing pipelines by:
 
-* better scheduling of community night
-* being more organized with publicizing student work (projects, blog posts, etc)
-* cutting traditional media advertising
-* finishing up the new website
-* better publicizing the referral credit
-* better publicizing our lending partners and particularly their ability to lend for student cost-of-living
-* engaging with a public relations firm to increase media presence
-* improving our jobs network/process which will also promote admissions
+* scheduled out two community nights per module
+* rebuilt the main website, though it still needs editing
+* spending a significant amount of time on direct outreach to companies and individuals to "built the network"
 
 ## Student Employment
 
@@ -107,8 +105,8 @@ We’re also rebooting/growing existing efforts including:
 
 We currently have:
 
-* X students hunting for their first job offer
-* Of those X graduated in the most recent cohort
+* 26 students hunting for their first job offer
+* Of those 15 graduated in the most recent cohort
 * X graduated with the previous cohort
 * X students are near or over 90 days of job hunting post-graduation
 * X additional students are hunting for a second job
