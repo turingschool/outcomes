@@ -46,15 +46,17 @@ Started last module with 93 students across the four cohorts
 
 ### 1603
 
-* 1602 includes 24 new students
-* 4 students repeating Module 1
-* 1603 begins Module 1 with 28 students
+* 1602 includes 21 new students and
+* 7 students repeating Module 1 and
+* 1 student re-enrolling in the program
+* 1602 begins Module 1 with 29 students
 
 ## Trends & News
 
 Things of interest to have on your radar:
 
 * We released the 2015 Outcomes Report with data from 135 students. Highlights included an 83% graduation rate, 96% finding employment within 120 days, and average salary of $75K.
+* Close to signing the office lease for expected occupancy this June
 
 ## Enrollments & Admissions
 
@@ -116,72 +118,70 @@ We currently have:
 
 ### Our Structures/Processes
 
-Overall our hiring mechanism continues to putter along. Students finding employment are almost evenly split between companies where a previous alum is working and companies new to our network. Of those new ones, Turing staff played a part in opening the door for over half of students.
+I invested a lot of time and energy into improving the jobs picture this past module
+without a ton of success.
 
-We are currently interviewing candidates for an additional staff role to work on building out a robust hiring network. During this module, improving hiring is my #1 priority. My goals for the end of this module are to:
-hire the additional staff member
+Overall 1508 had fewer jobs by graduation than previous cohorts. In many cases
+this was an intentional delay to focus on their studies. Several students have
+or are imminently expecting offers. Overall I am not concerned about them.
+
+During Marissa's maternity leave I and Jorge are helping with more student-side
+job support. We're also talking with a contractor to help with resume and cover
+letter editing.
+
+Most importantly, we've hired the Partnerships Manager we've been hunting for since
+September. She'll be starting in late April.
 
 ### Competitive Landscape
 
-The competitive landscape continues to look good:
+The competitive landscape is complicated:
 
-* General Assembly is going to open a campus here in the coming months.
-* Will likely lead to a growing potential student pool and open more employer doors
-* Galvanize and other programs continue to operate locally without any particular impact/growth
-* We consistently hear from employers “we’re not interested in hiring people from anywhere but Turing.”
-* Turing grads consistently beat out people from other programs for the same job unless the other person has significant experience or a CS degree
+* We've learned that General Assembly, The Iron Yard, and DevBootcamp are all opening
+Denver campuses this year
+* Some of our local competitors have been struggling with poor student feedback
+* Local companies continue to tell us that they favor Turing graduates over other interviewees
 
 ### Goals
 
-* “clear” all 25 alumni from the job hunt board
+* “clear” all graduated alumni from the job hunt board
 * set up partnerships with at least two larger companies to hire students on an ongoing basis
-* implement software tools to better track and share all our hiring data
-* collect data from all alumni to build out a more robust outcomes report
+* make a plan for how we're going to track alumni data on a smoother, ongoing basis
 
 ## Staffing
 
-From last module we have the following staffing changes:
+Our modules staffing has changed a bit:
 
-* Horace takes over as the anchor for Module 1
-* Nate joins the staff to support Horace in Module 1
-* Mike moves to Module 1
-* Rachel continues as anchor for M2 but is now supported by Andrew
-* Josh Mejia continues as anchor for M3 but is now supported by Tess and Lovisa
-* Meeka begins anchoring M4 with support from Steve
-* Jorge will be back into teaching helping out with Modules 2, 3, and 4
-* I am stepping back from teaching for the module to focus on operations
-* Josh Cheek leaves us for a four-month project in Chicago
-* Rachel Martinez will soon be taking maternity leave
-* Jeff Ruane from 1507 joins us on a part-time fellowship for the module doing direct student support noon-to-8pm on Monday, Tuesday, and Wednesday
-* MB Burch from 1507 joins us on a three week project to revise/rebuild our prework curriculum
+* Module 1 is again anchored by Horace, supported by Mike, but now joined by Rachel part-time
+* Module 2 is now anchored by Andrew with support from Rachel
+* Module 3 is again anchored by Josh M with support from
+* Module 4 is anchored by Meeka with support from Steve
+
+Jorge and I will continue to focus on operations and non-instructional jobs.
+I'll teach one or two lessons in each module.
+
+Other notes:
+
+* Josh Cheek is still in Chicago and looks to return about June
+* Rachel Martinez and Marissa are both out on maternity leave
+* Jeff Ruane from 1507 completed the student support fellowship and is now starting his job hunt
+* Jhun de Andres from 1508 has taken over the student support fellowship
+* Louisa Barrett from my second gSchool class is currently part-time and ramping up to full time soon
 
 Our current staffing needs include:
 
-* ~6 lead and supporting instructors for the front end program
+* ~5 lead and supporting instructors for the front end program
 
 ## Academic & Program Changes
 
-* Warmup revamp
-* Student support fellowship
-* Posse reboot
+### Posse Reboot
 
-* Warmup time has been a consistent disappointment
-* Perhaps undercutting the efficacy of posses
-* Restructuring to focus on multi-day small assignments
-* Allison is introducing “Protocol” sessions to intentionally build up both technical and non-technical communication
-* Horace has built up a feedback application that runs over Slack to make feedback more of an every-day thing
-* Cutting back on “Bed and Breakfast” amenities,
-* reappropriating funds to instructional support
+* Notes
 
-## Achievements
+### Protocol
 
-* Office Lease
-* Outcomes report
+* Notes
 
 ## What’s Next
-
-
-### Two year mark this June.
 
 * What hasn’t changed and should? Likely going to raise tuition to $20K
 * Host a “homecoming weekend” type event for alumni
