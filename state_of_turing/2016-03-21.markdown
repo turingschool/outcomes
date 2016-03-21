@@ -5,51 +5,41 @@
 
 ## Student Progress
 
-Started last module with 93 students across the four cohorts
+Started last module with 91 students across the four cohorts
 
 ### 1508
 
-* 1508 entered Module 3 with 25 students
-* 18 of those students moved on to Module 4
-* 0 left the program with no intent to return
-* 2 left the program with an intent to return
-* 5 have joined 1510 to repeat Module 3
-* 0 students re-enrolled in the program to join 1508
-* 1508 begins Module 4 with 18 students
+* 1508 entered Module 4 with 18 students
+* 17 of those students graduated
+* 1 student is repeating Module 4
 
 ### 1510
 
-* 1510 entered Module 2 with 17 students
-* 17 of those students moved on to Module 3
-* 0 left the program with no intent to return
-* 0 left the program with an intent to return
-* 0 have joined 1511 to repeat Module 2
-* 3 students re-enrolled in the program to join 1510
-* 1510 begins Module 3 with 25 students
+* 1510 entered Module 3 with 24 students
+* 1 student took a leave of absence
+* 1 student is repeating Module 4
+* 1510 begins Module 4 with 24 students
 
 ### 1511
 
-* 1511 entered Module 1 with 29 students
-* 21 of those students moved on to Module 2
-* 0 left the program with no intent to return
-* 1 left the program with an intent to return
-* 7 have joined 1602 to repeat Module 1
-* 0 students re-enrolled in the program to join 1511
-* 1511 begins Module 2 with 21 students
+* 1511 entered Module 2 with 20 students
+* 1 student took a leave of absence
+* 2 students re-enrolled in the program to join 1511
+* 1511 begins Module 3 with 21 students
 
 ### 1602
 
-* 1602 includes 21 new students and
-* 7 students repeating Module 1 and
-* 1 student re-enrolling in the program
-* 1602 begins Module 1 with 29 students
+* 1602 started last module with 29 students
+* 2 left during the module
+* 4 stayed back to repeat Module 1
+* 1602 begins Module 1 with 23 students
 
 ### 1603
 
-* 1602 includes 21 new students and
-* 7 students repeating Module 1 and
-* 1 student re-enrolling in the program
-* 1602 begins Module 1 with 29 students
+* 1603 is starting today with a total of 28 students
+* 4 of those are repeating the module
+* 1 student re-enrolled in the program
+* 23 are new
 
 ## Trends & News
 
