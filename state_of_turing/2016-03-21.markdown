@@ -159,14 +159,25 @@ Our current staffing needs include:
 
 ### Posse Reboot
 
-* Notes
+* We're remixing how posses work
+* Past structures have been effective for some groups, but others break down
+* Animosity between students who participate and those who don't
+* Redesigned as an opt-in system
+* 10 new posses each led by two current students
+* Free to pick their own meeting schedule, in-person/remote, and areas of interest
+* Later today you'll have the posse descriptions and a survey
+* If you want to be in a posse you'll fill out the survey tonight
+* Tomorrow we'll organize them and post the results
+* Mentors will then have the opportunity to choose a posse or have us pick for them
 
 ### Protocol
 
-* Notes
+* Weeks 1-4 are going to be per-module sessions, M1 in week 1, M2 in week 2, etc
+* Week 5 will be all together
+* Smaller groupings to help focus and communication
 
 ## What’s Next
 
-* What hasn’t changed and should? Likely going to raise tuition to $20K
-* Host a “homecoming weekend” type event for alumni
-* With new space and staff, hoping to offer single module classes or nights & weekends
+* I'm going to have one more module of admin work to push more of these efforts forward
+* New staff starting soon
+* Looking at a “homecoming weekend” type event for alumni near Steve's DinosaurJS
