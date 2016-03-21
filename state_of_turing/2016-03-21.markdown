@@ -45,8 +45,8 @@ Started last module with 91 students across the four cohorts
 
 Things of interest to have on your radar:
 
-* We released the 2015 Outcomes Report with data from 135 students. Highlights included an 83% graduation rate, 96% finding employment within 120 days, and average salary of $75K.
-* Close to signing the office lease for expected occupancy this June
+* We released the 2015 Outcomes Report with data from 135 students. Highlights included an 83% satisfactory outcomes rate, 96% finding employment within 120 days, and average salary of $75K.
+* Close to signing the office lease for expected occupancy this June. It'll be just five blocks from our current location.
 
 ## Enrollments & Admissions
 
@@ -56,22 +56,17 @@ Things of interest to have on your radar:
 
 Future cohort enrollments for the primary program continue to be weaker than we'd like to see:
 
-* 1603 has X students enrolled
-* 1605 has X students enrolled
-* 1606 has X students enrolled
-
-We've also begun accepting enrollments for the Front End Engineering program.
-
-* 1606 has X students enrolled
-* 1608 has X students enrolled
+* 1605 has 14 students enrolled
+* 1606 has 2 students enrolled
+* 1608 has 6 students enrolled
 
 ### Applications Snapshot
 
 Applications are inline with what we’ve seen in the past:
 
-* X applications are awaiting evaluation
-* X students have pending interviews
-* X students have been invited but have not yet selected/enrolled in a cohort
+* 0 applications are awaiting evaluation
+* 10 students have pending interviews
+* ~6 students have been invited but have not yet selected/enrolled in a cohort
 
 ### Enrollments/Applications Pipelines
 
@@ -88,7 +83,7 @@ We've improved some of our existing pipelines by:
 
 * scheduled out two community nights per module
 * rebuilt the main website, though it still needs editing
-* spending a significant amount of time on direct outreach to companies and individuals to "built the network"
+* spending a significant amount of time on direct outreach to companies and individuals to "build the network"
 
 ## Student Employment
 
@@ -97,14 +92,13 @@ We've improved some of our existing pipelines by:
 We currently have:
 
 * 26 students hunting for their first job offer
-* Of those 15 graduated in the most recent cohort
-* X graduated with the previous cohort
-* X students are near or over 90 days of job hunting post-graduation
-* X additional students are hunting for a second job
-* X students have pending offers
-* X students are experimenting with freelancing/contracting
-* Overall X alumni are job hunting
-* The X students in Module 4 begin job hunting this week
+* Of those 16 graduated in the most recent cohort
+* 7 graduated with the previous cohort
+* 3 students are near or over 90 days of job hunting post-graduation
+* 5 additional students are hunting for a second job
+* Overall 31 alumni are job hunting
+* The 24 students in Module 4 begin job hunting this week
+* A total of 55 job hunters
 
 ### Our Structures/Processes
 
@@ -115,7 +109,7 @@ Overall 1508 had fewer jobs by graduation than previous cohorts. In many cases
 this was an intentional delay to focus on their studies. Several students have
 or are imminently expecting offers. Overall I am not concerned about them.
 
-During Marissa's maternity leave I and Jorge are helping with more student-side
+During Marissa's maternity leave Jorge and I are helping with more student-side
 job support. We're also talking with a contractor to help with resume and cover
 letter editing.
 
@@ -128,12 +122,12 @@ The competitive landscape is complicated:
 
 * We've learned that General Assembly, The Iron Yard, and DevBootcamp are all opening
 Denver campuses this year
-* Some of our local competitors have been struggling with poor student feedback
+* Some of our local competitors have been struggling with poor student and employer feedback
 * Local companies continue to tell us that they favor Turing graduates over other interviewees
 
 ### Goals
 
-* “clear” all graduated alumni from the job hunt board
+* “clear” all 31 graduated alumni from the job hunt board
 * set up partnerships with at least two larger companies to hire students on an ongoing basis
 * make a plan for how we're going to track alumni data on a smoother, ongoing basis
 
