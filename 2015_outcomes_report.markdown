@@ -2,15 +2,15 @@ The [Turing School of Software & Design](http://turing.io) is a 501(c)3 non-prof
 
 ## 2015 Programs
 
-Turing began in June 2014. We launched with just one course of study: "Web Application Development with Ruby, Rails, and JavaScript." Our students are grouped into cohorts and the course divided into four six-week "modules" each separated by an intermission week. We begin a new cohort every seven weeks and, after the initial rampup months, run four cohorts simultaneously. The typical student is at Turing for a total of 27 weeks and our total student body numbers about 90 when classes are in session.
+Turing began in June 2014. We launched with just one course of study: "Web Application Development with Ruby, Rails, and JavaScript." Our students are grouped into cohorts and the course is divided into four six-week "modules," each separated by an intermission week. We begin a new cohort every seven weeks and, after the initial rampup months, run four cohorts simultaneously. The typical student is at Turing for a total of 27 weeks and our total student body numbers about 90 when classes are in session.
 
 ### Why Report Data
 
-In March of 2015 we joined with a collective of other training providers to form the [New Economy Skills Training Association (NESTA)](http://thenesta.org/). That organization put together a [list of outcomes data points that member organizations would publish](https://www.dropbox.com/s/76zqbjy4ky8z29f/NESTA%20Letter%20to%20the%20POTUS.pdf?dl=0) in the future.
+In March of 2015, we joined with a collective of other training providers to form the [New Economy Skills Training Association (NESTA)](http://thenesta.org/). That organization put together a [list of outcomes data points that member organizations would publish](https://www.dropbox.com/s/76zqbjy4ky8z29f/NESTA%20Letter%20to%20the%20POTUS.pdf?dl=0) in the future.
 
 Beyond NESTA, Turing has a culture of transparency. You can find every one of our [lesson plans](https://github.com/turingschool/lesson_plans), [tutorials](https://github.com/turingschool/curriculum/tree/master/source), and even a [few hundred class videos](https://vimeo.com/turing) all published online free for non-commercial use. It only makes sense, then, to be just as transparent with our student outcomes.
 
-This is the **2015 Outcomes Report for Turing**. The following data represents the 1406, 1407, 1409, 1410, 1412, 1502, 1503, and 1505 cohorts of the Turing School, who graduated between December 2014 and December 2015.
+This is the **2015 Outcomes Report for Turing**. The following data represent the 1406, 1407, 1409, 1410, 1412, 1502, 1503, and 1505 cohorts of the Turing School, who graduated between December 2014 and December 2015.
 
 ## Completion Rates
 
@@ -39,8 +39,8 @@ Why did people not graduate? Of the 29 non-graduates:
 
 Here's what those categories mean:
 
-* *Left before graduation due to employment*: students start job hunting between 3rd and 4th quarters. If their job hunt is immediately successful then they'll sometimes leave before fourth quarter ends or go into "audit" mode. Either way they didn't officially graduate. This is not considered a problem.
-* *Academic drop out*: the biggest bucket is students who left under academic distress. This unfortunately lumps together both students who were not academically successful based on their own aptitude/work and students who had outside circumstances (health, family, finances) impact their learning. Turing is a demanding program and this category should be the main reason people leave. In 2016 I believe we'll see this trend down towards 6-8% of enrollments.
+* *Left before graduation due to employment*: students start job hunting between 3rd and 4th quarters. If their job hunt is immediately successful, then they'll sometimes leave before fourth quarter ends or go into "audit" mode. Either way they didn't officially graduate. This is not considered a problem.
+* *Academic drop out*: the biggest bucket is students who left under academic distress. This unfortunately lumps together both students who were not academically successful based on their own aptitude/work and students who had outside circumstances (health, family, finances) impact their learning. Turing is a demanding program and this category should be the main reason people leave. In 2016, I believe we'll see this trend down towards 6-8% of enrollments.
 * *Early drop / bad fit*: A small number of students arrive at Turing and drop out within three weeks, often in the first week. Of the four, three expressed that the workload was too heavy and one expressed that there was too little instruction. This is a category that we can work to eliminate.
 * *Elective drop out*: Students who chose to leave while academically successful. One left to begin an MBA program, one left to begin a job hunt/contracting.
 
@@ -57,7 +57,7 @@ The most interesting thing to note here is that none of these groups show a nega
 
 ### Job Placement
 
-"Job Placement" is the most complicated category to accurately measure. For this section we'll consider just the 101 students who graduated in the time period.
+"Job Placement" is the most complicated category to accurately measure. For this section, we'll consider just the 101 students who graduated in the time period.
 
 #### Non-Job-Seeking / Exemptions
 
@@ -69,7 +69,7 @@ Anomalies in the process can cause anomalies in the salary and job-hunt-length d
 * 1 student temporarily abandoned their job hunt (currently job hunting)
 * 2 students had tuition refunded after prolonged job hunts (one now employed as a developer, one has an apprenticeship)
 
-Therefore 95 students are tracked below.
+Therefore, 95 students are tracked below.
 
 #### Job Hunt Length
 
@@ -128,7 +128,7 @@ In addition, we looked at the salary increase for persons who previously earned 
 
 Our standard Tuition is $17,500. Students who have a recent Macbook Pro can decline the included laptop and pay a reduced tuition of $16,300. Some students get an additional discount based on their referral pipeline or a diversity scholarship.
 
-All together the average tuition paid by graduates is $16,800.
+All together, the average tuition paid by graduates is $16,800.
 
 #### The Real Cost of Turing
 
@@ -151,7 +151,7 @@ Overall, for an institution that's less than two years old, we are satisfied wit
 
 **We must attract, enroll, and graduate more women, people of color, and veterans.**
 
-This year we'll build up stronger partnerships with old friends like [Girl Develop It](https://www.girldevelopit.com/) and [Teach for America](https://www.teachforamerica.org/). We'll begin new ones with organizations like [City Year](http://www.cityyear.org/) and [Denver Community College](https://www.ccd.edu/). In the summer of 2016 we anticipate approval from the VA to accept Post-9/11 GI Bill funding and thus open the door more widely to our veterans and their spouses/dependents. We'll also add at least two roles to our operations team and put more purposeful marketing and recruiting systems in place to ensure we're building a sustainable pipeline.
+This year, we'll build up stronger partnerships with old friends like [Girl Develop It](https://www.girldevelopit.com/) and [Teach for America](https://www.teachforamerica.org/). We'll begin new ones with organizations like [City Year](http://www.cityyear.org/) and [Denver Community College](https://www.ccd.edu/). In the summer of 2016, we anticipate approval from the VA to accept Post-9/11 GI Bill funding and thus open the door more widely to our veterans and their spouses/dependents. We'll also add at least two roles to our operations team and put more purposeful marketing and recruiting systems in place to ensure we're building a sustainable pipeline.
 
 ### Graduation Rate
 
@@ -164,12 +164,12 @@ So far in late 2015 / early 2016 we have put in place the following changes:
 * The "Echo"/"Foxtrot" split for the first three weeks of Module 1, [inspired by Harvey Mudd](http://qz.com/192071/how-one-college-went-from-10-female-computer-science-majors-to-40/)
 * Creation of a *Student Support Fellowship*, a six-week fellowship for a recent grad where they spend 24 hours per week pairing with our most struggling students
 * Revising our prework content to be more focused, have higher expectations, and be more easily monitored. We've also added volunteer "prework guides" (current and past students) who give one-on-one support to students before they arrive
-* Foster the growth of student interest/support groups like the Joan Clarke Society (for female students), LGBTuring, and newly the Turing Asian American Programmers. Our experience shows a clear correlation between a student's success/happiness and their depth of connection to the student community around them.
+* Foster the growth of student interest/support groups like the Joan Clarke Society (for female students), LGBTuring, and the newly-created Turing Asian American Programmers. Our experience shows a clear correlation between a student's success/happiness and their depth of connection to the student community around them.
 * Revising admissions process to focus more clearly on the Turing mindset: growth, engagement, agency, empathy, and grit.
 * Increase the number of financial lending partners and diversify their offerings, including some who can now lend students funds for their cost-of-living while in the program (lightening stress/dependency on savings/other people)
 * Creation of a Community Affairs Manager role who is now able to keep a pulse on students, steer their growth, and catch warning signs more quickly
 
-With these efforts in place we seek to nearly eliminate the "Early Drop / Bad Fit" category (currently 3%) and reduce the "Academic Drop Out" (currently 10%) so combined they are the outcome for less than 8% of enrollees in 2016.
+With these efforts in place we seek to nearly eliminate the "Early Drop / Bad Fit" category (currently 3%) and reduce the "Academic Drop Out" (currently 10%) so combined, they are the outcome for less than 8% of enrollees in 2016.
 
 ### Employment Pipelines
 
@@ -190,18 +190,18 @@ To do that we will:
 * Leverage our long-time alumni as they begin to look for their second jobs, using them to open doors for current grads
 * Create a supported apprenticeship program where experienced developers on our staff assist grads in ramping up at their new jobs, thus lowering the risk for employers
 
-Through those efforts we expect to see over 80% of graduates employed within 30 days of graduation in 2016 and reach the moon challenge in 2017.
+Through those efforts, we expect to see over 80% of graduates employed within 30 days of graduation in 2016 and reach the moon challenge in 2017.
 
 ## Data & Methodology
 
 ### Where did the data come from?
 
-* Graduation data was pulled from our internal records
+* Graduation data were pulled from our internal records
 * Employment outcomes were reported by students in a survey conducted in February 2016
 
-### Was the data modified?
+### Were the data modified?
 
-Yes. The data was modified/sanitized in the following ways:
+Yes. The data were modified/sanitized in the following ways:
 
 * Many salary numbers were expanded from abbreviations (like `68k` to `68000`)
 * Salaries stated in an hourly rate (mostly from pre-Turing jobs) were extrapolated to a similar annual salary
@@ -210,13 +210,13 @@ Yes. The data was modified/sanitized in the following ways:
 
 ### Were the data/calculations audited?
 
-No. As a small non-profit, honestly, I can't argue why it benefits students to spend money on a data audit. If we were motivated to cheat we could omit data or sneak changes past the best auditors. Instead I hope the depth and clarity of the above calculations and discussion demonstrate our commitment to transparency.
+No. As a small non-profit, honestly, I can't argue why it benefits students to spend money on a data audit. If we were motivated to cheat, we could omit data or sneak changes past the best auditors. Instead I hope the depth and clarity of the above calculations and discussion demonstrate our commitment to transparency.
 
 That being said, if an appropriate entity is so motivated as to donate auditing services, we're happy to share student contact information under sufficient guards to maintain their privacy.
 
 So what if we're making this all up? Or doctoring the data? First, our admissions are strong, jobs are strong, and we don't have much to gain by presenting phoney data. Second, we're a 501(c)3 non-profit so there's not a whole lot of benefit to be had from gaming the market / public perception.
 
-We don't believe in hiding skeletons in the closet. Many of the numbers above are below what other programs will claim. We work hard on recruiting and selecting a diverse, capable group of students. We cram as much learning as possible into their seven months. Then we help them find great jobs and launch fantastic careers. We iterate on those processes constantly, do the best we can, and these are the results. Whatever the data says we're ok with it.
+We don't believe in hiding skeletons in the closet. Many of the numbers above are below what other programs will claim. We work hard on recruiting and selecting a diverse, capable group of students. We cram as much learning as possible into their seven months. Then we help them find great jobs and launch fantastic careers. We iterate on those processes constantly, do the best we can, and these are the results. Whatever the data say, we're ok with it.
 
 If you'd like to hear it straight from the students, [read reviews on CourseReport](https://www.coursereport.com/schools/turing#/reviews).
 
@@ -233,10 +233,10 @@ Note that data about tuition/payment plans is omitted from the data set as there
 
 ### Changes, Errors, Corrections, and Questions
 
-As new data comes in from students, errors are found in the calculations, or other data questions arise this report may be edited and updated. Questions or corrections can be sent to contact@turing.io
+As new data comes in from students, errors are found in the calculations, or other data questions arise, this report may be edited and updated. Questions or corrections can be sent to contact@turing.io.
 
 #### Known Issues / Pending Changes
 
-* There's still debate about how to calculate the "real cost of Turing" but all other opinions lead to a lower total cost -- so what we have here is the most safely pessimistic
-* There are four students still enrolled, they were properly exempted from job hunt timelines, but they should have been omitted from the denominator in the calculation of graduation rates which should increase rates about 2%
-* Since the data was compiled and the report published, a few additional students have supplied their outcomes data. Each of them has favorable data that should marginally increase the average salary and decrease the time-to-employment.
+* There's still debate about how to calculate the "real cost of Turing" but all other opinions lead to a lower total cost -- so what we have here is the most safely pessimistic.
+* There are four students still enrolled, they were properly exempted from job hunt timelines, but they should have been omitted from the denominator in the calculation of graduation rates, which should increase rates about 2%.
+* Since the data were compiled and the report published, a few additional students have supplied their outcomes data. Each of them has favorable data that should marginally increase the average salary and decrease the time-to-employment.
