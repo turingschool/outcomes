@@ -30,8 +30,9 @@ Started last module with 96 students across the four cohorts.
 ### 1603
 
 * 1603 started Module 1 with 28 students
-* 5 students left the program
-* XX students are repeating Module 1
+* 3 students left the program
+* 2 students took a leave of absence and are returning with 1605
+* 6 students are repeating Module 1
 * 16 students moved forward to Module 2
 * 1 student rejoined the program
 * 1603 starts Module 2 with 17 students
@@ -39,8 +40,8 @@ Started last module with 96 students across the four cohorts.
 ### 1605
 
 * 1605 is starting today with a total of 26 students
-* XX of those are repeating the module
-* XX are new
+* 6 of those are repeating the module
+* 18 are new
 
 ## Enrollments & Admissions
 
