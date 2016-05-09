@@ -40,6 +40,7 @@ Started last module with 96 students across the four cohorts.
 ### 1605
 
 * 1605 is starting today with a total of 26 students
+* 2 students are rejoining
 * 6 of those are repeating the module
 * 18 are new
 
