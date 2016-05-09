@@ -1,8 +1,6 @@
-## Welcome Back
-
 ## Student Progress
 
-Started last module with XX students across the four cohorts
+Started last module with 96 students across the four cohorts.
 
 ### 1510
 
@@ -43,14 +41,6 @@ Started last module with XX students across the four cohorts
 * 1605 is starting today with a total of 26 students
 * XX of those are repeating the module
 * XX are new
-
-## Trends & News
-
-Things of interest to have on your radar:
-
-* The new office process is grinding along. We've got a floor plan done and are
-in the processes of pricing out the construction and putting together the contract.
-* More than likely the front-end program will start in temporary space nearby
 
 ## Enrollments & Admissions
 
@@ -140,6 +130,8 @@ Our modules staffing has changed a bit:
 
 Other notes:
 
+* Steve is not assigned to a module this session as he prep's for the Front-End program
+* Jorge is not teaching, instead focusing on recruitment and other business processes
 * Josh Cheek is still in Chicago and looks to return sometime this summer
 * Rachel Martinez and Marissa are both returning from maternity leave
 * Beth Sebian from 1510 has taken over the student support fellowship
@@ -185,4 +177,7 @@ of reducing their feeling of being overwhelmed but still providing support
 ## What’s Next
 
 * Gala on June 25th
+* The new office process is grinding along. We've got a floor plan done and are
+in the processes of pricing out the construction and putting together the contract. It's probably ~2 weeks away from signed papers.
+* More than likely the front-end program will start in temporary space nearby
 * Questions?
