@@ -1,0 +1,188 @@
+## Welcome Back
+
+## Student Progress
+
+Started last module with XX students across the four cohorts
+
+### 1510
+
+* 1510 entered Module 4 with 22 students
+* 1 student took a leave of absence
+* 1 student left early to start working
+* 20 students graduated
+
+### 1511
+
+* 1511 started Module 3 with 20 students
+* 2 students left the program
+* 3 students are repeating Module 3
+* 15 students moved forward to Module 4
+* 1 student joined from 1510
+* 1511 starts Module 4 with 16 students
+
+### 1602
+
+* 1602 started Module 2 with 23 students
+* 1 student took a leave of absence
+* 22 students moved forward to Module 3
+* 1 student joined from 1511
+* 2 students re-joined the program
+* 1602 starts Module 3 with 25 students
+
+### 1603
+
+* 1603 started Module 1 with 28 students
+* 5 students left the program
+* XX students are repeating Module 1
+* 16 students moved forward to Module 2
+* 1 student rejoined the program
+* 1603 starts Module 2 with 17 students
+
+### 1605
+
+* 1605 is starting today with a total of 26 students
+* XX of those are repeating the module
+* XX are new
+
+## Trends & News
+
+Things of interest to have on your radar:
+
+* The new office process is grinding along. We've got a floor plan done and are
+in the processes of pricing out the construction and putting together the contract.
+* More than likely the front-end program will start in temporary space nearby
+
+## Enrollments & Admissions
+
+### Enrollments Snapshot
+
+* 1605 begins with 26 students which is two slots below full enrollment
+* We're seeing a year-over-year enrollment dip in May & June
+* Hypothesis on the seasonal dip: weddings
+
+#### Web Application Development
+
+Enrollments for the existing program are running "ok". With some applicants
+still selecting their cohort, we currently have:
+
+* 1606 has 14 students enrolled
+* 1608 has 13 students enrolled
+
+1606 is slightly under-enrolled. 1608 is on track for full enrollment.
+
+#### Front-End Engineering
+
+* 1606 has 8 students enrolled
+* 1608 has 4 students enrolled
+
+As we ramp up the new program we expect the first few cohorts to be under-enrolled.
+Likely they'll start with 16-18 students.
+
+### Applications Snapshot
+
+Applications continue to be a bit slow:
+
+* 0 applications are awaiting evaluation
+* 9 students have pending interviews
+* ~6 students have been invited but have not yet selected/enrolled in a cohort
+
+### Enrollments/Applications Pipelines
+
+Last module we made some small strides in student recruitment, but have not
+seen dramatic changes. This module we will:
+
+* Hire a recruitment/admissions coordinator to focus on it full time
+* Hold a handful of recruitment events for partner organizations
+* Draft a more comprehensive strategy
+
+## Student Employment
+
+### Jobs & Job Hunters
+
+Hiring has been going quite well for the majority of graduates. We continue
+to see some students accepting job offers before completing the program and
+many others signing within 30 days of graduation.
+
+We currently have:
+
+* 26 graduates hunting for their first job offer
+* Of those 15 graduated in the most recent cohort
+* 5 graduated with the previous cohort
+* 6 students are near or over 90 days of job hunting post-graduation
+* 3 additional students are hunting for a second job
+* Overall 29 alumni are job hunting
+* The 16 students in Module 4 begin job hunting this week
+* A total of 45 job hunters
+
+### Our Structures/Processes
+
+* From a staffing standpoint, Lia James started with us last week to take over
+most of the hiring and partnerships work.
+* We held a hiring event Monday that went well and led to several follow-up interviews. We spent intermission week at RailsConf where we connected with several companies who are interested in hiring.
+* We're working to better organize our alumni data so we can better stay in touch
+with companies that've hired from us before.
+* I'm stepping back into a teaching role but trying to keep the jobs momentum by handing pieces over to Lia
+
+### Goals
+
+* We're going to put extra energy into the six long-term job hunters with the goal of finding at least four of them employment
+* Finally put into place a meaningful system to track students' job applications/outreach
+* Get below 5 alumni looking for a first job offer before 1511 graduates
+
+## Staffing
+
+Our modules staffing has changed a bit:
+
+* Module 1 is anchored by Horace who is joined by Rachel and Mike
+* Module 2 is anchored by Andrew with support from Jeff and Jhun
+* Module 3 is anchored by Nate with support from Josh M and Brenna
+* Module 4 is anchored by Meeka with support from Louisa and Brenna
+
+Other notes:
+
+* Josh Cheek is still in Chicago and looks to return sometime this summer
+* Rachel Martinez and Marissa are both returning from maternity leave
+* Beth Sebian from 1510 has taken over the student support fellowship
+
+We're currently looking for:
+
+* ~5 lead and supporting instructors for the front end program
+* A recruitment/admissions coordinator
+
+## Academic & Program Changes
+
+### Posse Reboot
+
+* We were happy with the first round of the posse reformation
+* Module 1 students seem generally a little out of place
+* Going to experiment with Module 1 students not being expected (though still allowed)
+to join posses
+* Instead form M1 students into "micro-posses" for 3-4 students with the goal
+of reducing their feeling of being overwhelmed but still providing support
+* Ideally attach 1-2 mentors (from alums, students, and traditional mentors) to each micro-posse
+
+### Friday Restructuring
+
+* Yet Another Friday Plan
+* Weekends are typically full of work
+* Acknowledge Thursday as a time for renewal/celebration
+* Experiment with starting Fridays at 10AM
+* Moving Guest Talks to 9AM and making them optional
+* 10:00-11:30 will be Academic Time
+* 11:30 to 12:30 will have Lightning Talks and Side-Hustle/Posse Demos on weeks 1, 3, and 5
+* 11:30 to 12:30 will have Gear Up on weeks 2 and 4
+* 12:30-1:30 Lunch
+* 1:30-2:30 Retro, including more frequent paired or small-group retro
+* 2:30-4:00 Outreach, Student-Led Sessions, and Side Project work time
+
+### Final Friday
+
+* Last retro of the module is to "increase the gravity" of the group
+* More about the members, less about the structure/content/instruction
+* Module 4 retro has gone well in that way with the Fishbowl
+* Working to create different but similarly feedback-driven activities for the other modules
+
+## What’s Next
+
+* Gala on June 25th
+* Questions?
