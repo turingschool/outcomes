@@ -18,21 +18,24 @@ This is the **2015 Outcomes Report for Turing**. The following data represents t
 
       June 1, 2016
 
-      Turing School of Software and Design asked Skills Fund to examine the 2015 Outcomes Report in order 
-      to provide transparency and third-party objectivity in reporting, tracking, and analyzing outcomes. 
+      Turing School of Software and Design asked Skills Fund to examine the 2015 Outcomes Report 
+      in order to provide transparency and third-party objectivity in reporting, tracking, and 
+      analyzing outcomes. 
       
-      The examination was performed on the data provided, and included a review of individual and aggregate 
-      student records through statistical analysis and, on a test-sample basis, evidence supporting the 
-      outcomes from employers.  We believe that this examination provides a logical basis for the findings that:
+      The examination was performed on the data provided, and included a review of individual 
+      and aggregate student records through statistical analysis and, on a test-sample basis, 
+      evidence supporting the outcomes from employers.  We believe that this examination provides
+      a logical basis for the findings that:
       
       * the data types collected are relevant, fair, and consistent with industry best practices
       * the data analysis was performed with accurate and clean mathematical formulas
-      * individual student records are robust and have a small (non-significant) percentage of missing information
+      * individual student records are robust and have a small (non-significant) percentage of
+      missing information
       * outcomes-specific data related to employment status is, on a test-sample basis, accurate
       
-      The conclusion of Skills Fund is that the Turing School of Software and Design 2015 Outcomes Report 
-      is reflective of strong data integrity, uses consistent standards measures, and indicates markers 
-      of a high-quality accelerated learning program.
+      The conclusion of Skills Fund is that the Turing School of Software and Design 2015 
+      Outcomes Report is reflective of strong data integrity, uses consistent standards measures,
+      and indicates markers of a high-quality accelerated learning program.
       
       Joseph Kozusko
       Co-founder, Skill Fund
