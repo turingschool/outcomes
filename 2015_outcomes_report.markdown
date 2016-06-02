@@ -12,6 +12,27 @@ Beyond NESTA, Turing has a culture of transparency. You can find every one of ou
 
 This is the **2015 Outcomes Report for Turing**. The following data represents the 1406, 1407, 1409, 1410, 1412, 1502, 1503, and 1505 cohorts of the Turing School, who graduated between December 2014 and December 2015.
 
+### Outcome of Third-Party Audit
+
+[Skills Fund](http://skills.fund/) is a leading financial partner for training programs like ours and is helping lead the charge to better define, understand, and share program outcomes. Joseph Kozusko, co-founder, volunteered to audit our data. Here is his statement:
+
+      June 1, 2016
+
+      Turing School of Software and Design asked Skills Fund to examine the 2015 Outcomes Report in order to provide transparency and third-party objectivity in reporting, tracking, and analyzing outcomes. 
+      
+      The examination was performed on the data provided, and included a review of individual and aggregate student records through statistical analysis and, on a test-sample basis, evidence supporting the outcomes from employers.  We believe that this examination provides a logical basis for the findings that:
+      
+      * the data types collected are relevant, fair, and consistent with industry best practices
+      * the data analysis was performed with accurate and clean mathematical formulas
+      * individual student records are robust and have a small (non-significant) percentage of missing information
+      * outcomes-specific data related to employment status is, on a test-sample basis, accurate
+      
+      The conclusion of Skills Fund is that the Turing School of Software and Design 2015 Outcomes Report is reflective of strong data integrity, uses consistent standards measures, and indicates markers of a high-quality accelerated learning program.
+      
+      Joseph Kozusko
+      Co-founder, Skill Fund
+
+
 ## Completion Rates
 
 * Total students who could have graduated: 136
@@ -208,15 +229,9 @@ Yes. The data was modified/sanitized in the following ways:
 * A few anomalies were simplified such as a job title of `some corporate BS` became `developer` when I knew the details of their job
 * Non-graduates and exempted job hunters were at times excluded as described in the relevant sections above
 
-### Were the data/calculations audited?
+### Is this the *real* story?
 
-No. As a small non-profit, honestly, I can't argue why it benefits students to spend money on a data audit. If we were motivated to cheat we could omit data or sneak changes past the best auditors. Instead I hope the depth and clarity of the above calculations and discussion demonstrate our commitment to transparency.
-
-That being said, if an appropriate entity is so motivated as to donate auditing services, we're happy to share student contact information under sufficient guards to maintain their privacy.
-
-So what if we're making this all up? Or doctoring the data? First, our admissions are strong, jobs are strong, and we don't have much to gain by presenting phoney data. Second, we're a 501(c)3 non-profit so there's not a whole lot of benefit to be had from gaming the market / public perception.
-
-We don't believe in hiding skeletons in the closet. Many of the numbers above are below what other programs will claim. We work hard on recruiting and selecting a diverse, capable group of students. We cram as much learning as possible into their seven months. Then we help them find great jobs and launch fantastic careers. We iterate on those processes constantly, do the best we can, and these are the results. Whatever the data says we're ok with it.
+We don't believe in hiding skeletons in the closet. Many of our numbers are below what other programs will claim. We work hard on recruiting and selecting a diverse, capable group of students. We cram as much learning as possible into their seven months. Then we help them find great jobs and launch fantastic careers. We iterate on those processes constantly, do the best we can, and these are the results. Whatever the data says we're ok with it.
 
 If you'd like to hear it straight from the students, [read reviews on CourseReport](https://www.coursereport.com/schools/turing#/reviews).
 
