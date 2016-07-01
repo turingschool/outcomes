@@ -1,11 +1,10 @@
-## Student Progress
+# State of Turing
 
-Started last module with XX students across the four cohorts.
+## Back-End Program
 
 ### 1511
 
 * 1511 entered Module 4 with XX students
-* X student took a leave of absence
 * X student left early to start working
 * XX students graduated
 
@@ -39,17 +38,44 @@ Started last module with XX students across the four cohorts.
 
 ### 1606
 
+* 1606 started this week with XX new students in the backend program
+* another X students are repeating the module
+* all together the group is XX
+
+### Staffing
+
+This inning:
+
+* Jeff returns to Module 1 with Mike and Beth
+* Andrew anchors Module 2 and is joined by Casey
+* Nate anchors Module 3 and I am supporting
+* Meeka anchors Module 4 with support from the rest of the Spirit Team
+
+## Front-End Program
+
+### 1606
+
 * 1606 is started this week with a total of XX students
 * XX new students are enrolled in the backend program, XX in the front-end
 * another X students are repeating the module
+
+### Staffing
+
+We're sharing the instructional load of the back-end M4 and the front-end M1 with
+five instructors, the "Spirit Team", including Brenna, Jhun, Louisa, Meeka, and me.
 
 ## Enrollments & Admissions
 
 ### Enrollments Snapshot
 
-* 1605 begins with 26 students which is two slots below full enrollment
-* We're seeing a year-over-year enrollment dip in May & June
-* Hypothesis on the seasonal dip: weddings
+* The 1606 backend cohort begins with XX students, XX slots below full enrollment
+* The 1606 frontend cohort begins with XX students, XX slots below full enrollment
+* As we exit the early-summer seasonal dip, the 1608 backend cohort is full with
+a waiting list. Front-end has XX students and is expected to start with about XX.
+* Enrollments for the next cohorts are starting to trickle in
+* Try Turing was radically successful, yielding over 20 accepted students
+* We've tentatively scheduled 1-2 Try Turing events per month for the rest of the year
+* Erin
 
 #### Web Application Development
 
@@ -121,13 +147,6 @@ with companies that've hired from us before.
 * Get below 5 alumni looking for a first job offer before 1511 graduates
 
 ## Staffing
-
-Our modules staffing has changed a bit:
-
-* Module 1 is anchored by Horace who is joined by Rachel and Mike
-* Module 2 is anchored by Andrew with support from Jeff and Jhun
-* Module 3 is anchored by Nate with support from Josh M and Brenna
-* Module 4 is anchored by Meeka with support from Louisa and Brenna
 
 Other notes:
 
