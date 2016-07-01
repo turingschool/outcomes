@@ -12,15 +12,13 @@
 
 * 1602 started Module 3 with 23 students
 * 1 students left the program
-* 1 students are repeating Module 3
-* 21 students moved forward to Module 4
-* 0 student joined from 1511
+* 1 student is repeating Module 3
 * 1602 starts Module 4 with 21 students
 
 ### 1603
 
 * 1603 started Module 2 with 17 students
-* 2 student took a leave of absence
+* 2 students took a leave of absence
 * 15 students moved forward to Module 3
 * 1 student joined from 1602
 * 1 students re-joined the program
@@ -30,7 +28,7 @@
 
 * 1605 started Module 1 with 25 students
 * 2 students left the program
-* 1 students took a leave of absence and are returning with 1608
+* 1 students took a leave of absence and is returning with 1608
 * 3 students are repeating Module 1
 * 19 students moved forward to Module 2
 * 1 student rejoined the program
@@ -38,7 +36,7 @@
 
 ### 1606
 
-* 1606 started this week with 17 new students in the backend program
+* 1606 started this week with 17 new students
 * another 3 students are repeating the module
 * all together the group is 20
 
@@ -55,9 +53,7 @@ This inning:
 
 ### 1606
 
-* 1606 is started this week with a total of 32 students
-* 17 new students are enrolled in the backend program, 15 in the front-end
-* another 4 students are repeating the module
+* 1606 started this week with a total of 15 students
 
 ### Staffing
 
@@ -71,7 +67,8 @@ five instructors, the "Spirit Team", including Brenna, Jhun, Louisa, Meeka, and 
 * The 1606 back-end cohort begins with 20 students, 8 slots below full enrollment
 * The 1606 front-end cohort begins with 16 students, 12 slots below full enrollment
 * As we exit the early-summer seasonal dip, the 1608 backend cohort is full with
-a waiting list. Front-end has 14 students and is expected to start with about XX.
+a waiting list. Front-end has 14 students and is expected to start with about 18.
+* Total new student enrollment for August will be about 42 of a possible 48
 * Enrollments for the next cohorts are starting to trickle in.
 
 ### Student Recruitment
@@ -104,7 +101,7 @@ We currently have:
 ### Goals & Notes
 
 * We issued tuition refunds to two alumni who wanted to give up on job hunting
-* The last job hunter from 2015 graduates found a job, so 100% are employed, refunded, or exempt
+* The last job hunter from the 2015 graduates found a job, so 100% are employed, refunded, or exempt
 * Overall job hunting continues to go well this Spring/Summer
 * We're seeing an increasing number of students getting/evaluating multiple offers
 * We are working to develop more partnerships for the late summer
@@ -143,4 +140,6 @@ We're currently looking for:
 * We're about to sign the lease on the space at 17th and Market. The plan is
 for October 1 but realistically it'll be a few weeks later
 * We're making plans for the temporary space between now and then
+* Tuition will be rising to $20,000 for persons who sign a contract after the last day of this module
+* We've implemented and will soon be talking about a new compensation structure for employees
 * Questions?
