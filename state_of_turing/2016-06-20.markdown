@@ -4,43 +4,43 @@
 
 ### 1511
 
-* 1511 entered Module 4 with XX students
-* X student left early to start working
-* XX students graduated
+* 1511 entered Module 4 with 17 students
+* 2 student left early to start working
+* 15 students graduated
 
 ### 1602
 
-* 1602 started Module 3 with XX students
-* X students left the program
-* X students are repeating Module 3
-* XX students moved forward to Module 4
-* X student joined from 1511
-* 1602 starts Module 4 with XX students
+* 1602 started Module 3 with 23 students
+* 1 students left the program
+* 1 students are repeating Module 3
+* 21 students moved forward to Module 4
+* 0 student joined from 1511
+* 1602 starts Module 4 with 21 students
 
 ### 1603
 
-* 1603 started Module 2 with XX students
-* X student took a leave of absence
-* XX students moved forward to Module 3
-* X student joined from 1511
-* X students re-joined the program
-* 1603 starts Module 3 with XX students
+* 1603 started Module 2 with 17 students
+* 2 student took a leave of absence
+* 15 students moved forward to Module 3
+* 1 student joined from 1602
+* 1 students re-joined the program
+* 1603 starts Module 3 with 17 students
 
 ### 1605
 
-* 1605 started Module 1 with XX students
-* X students left the program
-* X students took a leave of absence and are returning with 1606
-* X students are repeating Module 1
-* XX students moved forward to Module 2
-* X student rejoined the program
-* 1605 starts Module 2 with XX students
+* 1605 started Module 1 with 25 students
+* 2 students left the program
+* 1 students took a leave of absence and are returning with 1608
+* 3 students are repeating Module 1
+* 19 students moved forward to Module 2
+* 1 student rejoined the program
+* 1605 starts Module 2 with 20 students
 
 ### 1606
 
-* 1606 started this week with XX new students in the backend program
-* another X students are repeating the module
-* all together the group is XX
+* 1606 started this week with 17 new students in the backend program
+* another 3 students are repeating the module
+* all together the group is 20
 
 ### Staffing
 
@@ -55,9 +55,9 @@ This inning:
 
 ### 1606
 
-* 1606 is started this week with a total of XX students
-* XX new students are enrolled in the backend program, XX in the front-end
-* another X students are repeating the module
+* 1606 is started this week with a total of 32 students
+* 17 new students are enrolled in the backend program, 15 in the front-end
+* another 4 students are repeating the module
 
 ### Staffing
 
@@ -68,11 +68,11 @@ five instructors, the "Spirit Team", including Brenna, Jhun, Louisa, Meeka, and 
 
 ### Enrollments Snapshot
 
-* The 1606 back-end cohort begins with XX students, XX slots below full enrollment
-* The 1606 front-end cohort begins with XX students, XX slots below full enrollment
+* The 1606 back-end cohort begins with 20 students, 8 slots below full enrollment
+* The 1606 front-end cohort begins with 16 students, 12 slots below full enrollment
 * As we exit the early-summer seasonal dip, the 1608 backend cohort is full with
-a waiting list. Front-end has XX students and is expected to start with about XX.
-* Enrollments for the next cohorts are starting to trickle in
+a waiting list. Front-end has 14 students and is expected to start with about XX.
+* Enrollments for the next cohorts are starting to trickle in.
 
 ### Student Recruitment
 
@@ -126,7 +126,6 @@ with companies that've hired from us before.
 
 * Jorge is not teaching, instead focusing on recruitment and other business processes
 * Josh Cheek is still in Chicago and looks to return sometime this summer
-* Beth Sebian from 1510 has taken over the student support fellowship
 * Heidi, Julian
 
 We're currently looking for:
