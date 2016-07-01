@@ -113,19 +113,34 @@ We currently have:
 
 ## Staffing with Jeff Casimir
 
-( Needs update )
+Staffing changes from the last inning include:
 
-* Jorge is not teaching, instead focusing on recruitment and other business processes
-* Josh Cheek is still in Chicago and looks to return sometime this summer
-* Heidi, Julian
+* Rachel Warbelow stepped down from her full-time role into the quarter-time Academic Initiatives Manager role
+* Horace Williams has headed out to LA to join Catie and job hunt
+* Josh Cheek and I are meeting today to figure out his next steps and future role with Turing
+* Josh Mejia took over as the Director of the back-end program
+* Casey Cumbow started and is teaching with Andrew in M2
+* Erin Williams has now started to run recruitment/enrollments
+* Beth Sebian joined the full-time staff and is now helping with M1 along with rebuilding Gear Up
+* Heidi Hoopes and Julian Feliciano have stepped into the Student Support Fellowship roles for this inning
+
+Overall that has us with:
+
+* A total staff of 23
+* 17 are full-time
+* 6 are part-time or short-term
+* 14 women, 9 men
 
 We're currently looking for:
 
 * ~5 lead and supporting instructors for the front end program
-
-## Academic & Program Changes
-
+* ~1-2 supporting instructors or anchors for the back-end program
+* considering an instructional coach
+* considering a personal/executive assistant
 
 ## What’s Next
 
+* We're about to sign the lease on the space at 17th and Market. The plan is
+for October 1 but realistically it'll be a few weeks later
+* We're making plans for the temporary space between now and then
 * Questions?
