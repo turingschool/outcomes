@@ -46,13 +46,25 @@
 
 ## Front-End Program with Steve Kinney
 
-(Steve: Edit all these numbers and cohorts)
+### 1608
+
+* 1608 starts this week with 21 students
+* 18 new students and 3 students who transfered from the Back-End program
 
 ### 1606
 
-* 1606 started this week with a total of 16 students
+* All 16 students advanced from Module 1 to Module 2
+* 1606 will be joined by one student previously in Module 4 of the Back-End Program
+* All together, the group is 17 students
 
 ### Staffing
+
+* "Spirit Team" is effectively dissolved as Brenna and Jhun join the Front-End team full time.
+* Brenna and Jhun have been promoted from TAs to Assistant Instructors and will be teaching lessons and writing curriculum for the front-end program.
+* Mark joins the Front-End Program as the student support fellow for this module
+* All four instructors will share teaching responsibilities across the two modules.
+  * Louisa will anchor Module 1
+  * Steve will anchor Module 2
 
 ## Enrollments & Admissions with Erin Williams
 
