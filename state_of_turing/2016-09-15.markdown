@@ -1,0 +1,140 @@
+# State of Turing
+
+## Back-End Program with Josh Mejia
+
+(Josh: Edit all these numbers and cohorts)
+
+### 1511
+
+* 1511 entered Module 4 with 17 students
+* 2 student left early to start working
+* 15 students graduated
+
+### 1602
+
+* 1602 started Module 3 with 24 students
+* 2 students left the program
+* 1 student is repeating Module 3
+* 1602 starts Module 4 with 21 students
+
+### 1603
+
+* 1603 started Module 2 with 17 students
+* 2 students took a leave of absence
+* 15 students moved forward to Module 3
+* 1 student joined from 1602
+* 1 student re-joined the program
+* 1603 starts Module 3 with 17 students
+
+### 1605
+
+* 1605 started Module 1 with 25 students
+* 2 students left the program
+* 1 student took a leave of absence and is returning with 1608
+* 3 students are repeating Module 1
+* 19 students moved forward to Module 2
+* 1 student rejoined the program
+* 1605 starts Module 2 with 20 students
+
+### 1606
+
+* 1606 started this week with 17 new students
+* another 3 students are repeating the module
+* all together the group is 20
+
+### Staffing
+
+## Front-End Program with Steve Kinney
+
+(Steve: Edit all these numbers and cohorts)
+
+### 1606
+
+* 1606 started this week with a total of 16 students
+
+### Staffing
+
+## Enrollments & Admissions with Erin Williams
+
+### Enrollments Snapshot
+
+(Erin: Update cohorts and numbers)
+
+* The 1606 back-end cohort begins with 20 students, 8 slots below full enrollment
+* The 1606 front-end cohort begins with 16 students, 12 slots below full enrollment
+* As we exit the early-summer seasonal dip, the 1608 backend cohort is full with
+a waiting list. Front-end has 14 students and is expected to start with about 18.
+* Total new student enrollment for August will be about 42 of a possible 48
+* Enrollments for the next cohorts are starting to trickle in.
+
+### Student Recruitment
+
+(Erin: Update cohorts and numbers)
+
+* Try Turing was radically successful, yielding over 20 accepted students
+* We've tentatively scheduled 1-2 Try Turing events per month for the rest of the year
+* We're in the process of planning and registering for several local jobs events
+* We decided to end the paid student referral program to be in full compliance with the Veterans Administration guidelines
+* We expect final approval from the VA by the end of the module and can start accepting GI Bill funding shortly thereafter
+
+## Student Employment with Lia James
+
+### Jobs & Job Hunters
+
+(Lia: Update cohorts and numbers)
+
+We currently have:
+
+* 18 graduates hunting for their first job offer
+* Of those 11 graduated in the most recent cohort
+* 5 graduated with the previous cohort
+* 2 students are near or over 90 days of job hunting post-graduation
+* 2 additional students are hunting for a second job
+* Overall 20 alumni are job hunting
+* The 21 students in Module 4 begin job hunting this week
+* A total of 41 job hunters
+
+### Goals & Notes
+
+(Lia: update)
+
+* We issued tuition refunds to two alumni who wanted to give up on job hunting
+* The last job hunter from the 2015 graduates found a job, so 100% are employed, refunded, or exempt
+* Overall job hunting continues to go well this Spring/Summer
+* We're seeing an increasing number of students getting/evaluating multiple offers
+* We are working to develop more partnerships for the late summer
+* We are reworking how we run PR and outreach to better connect with employers
+* Continue to have good public conversation about our outcomes report and overall transparency initiative
+
+## Staffing with Jeff Casimir
+
+Staffing changes from the last inning include:
+
+(Jeff: staffing changes)
+
+Overall that has us with:
+
+(Jeff: update)
+
+* A total staff of 23
+* 17 are full-time
+* 6 are part-time or short-term
+* 14 women, 9 men
+
+We're currently looking for:
+
+* ~5 lead and supporting instructors for the front end program
+* ~1-2 supporting instructors or anchors for the back-end program
+* considering an instructional coach
+* considering a personal/executive assistant
+
+## What’s Next
+
+(Jeff: update )
+
+* We're about to sign the lease on the space at 17th and Market. The plan is
+for October 1 but realistically it'll be a few weeks later
+* We're making plans for the temporary space between now and then
+* Tuition will be rising to $20,000 for persons who sign a contract after the last day of this module
+* We've implemented and will soon be talking about a new compensation structure for employees
+* Questions?
