@@ -75,23 +75,24 @@
 
 ### Enrollments Snapshot
 
-(Erin: Update cohorts and numbers)
+* The 1608 back-end cohort begins with 26 and 2 on a waiting list.
+* The 1608 front-end cohort begins with 21 and 2 on a waiting list.
+* The 1610 backend cohort is full with a waiting list. Front-end has 14 students and is expected to start with about 18.
+* Total new student enrollment for October will be between 43 and 48. 
+* 1611 has 14 enrolled total.
+* 10 students are already enrolled for 2017 cohorts. 
 
-* The 1606 back-end cohort begins with 20 students, 8 slots below full enrollment
-* The 1606 front-end cohort begins with 16 students, 12 slots below full enrollment
-* As we exit the early-summer seasonal dip, the 1608 backend cohort is full with
-a waiting list. Front-end has 14 students and is expected to start with about 18.
-* Total new student enrollment for August will be about 42 of a possible 48
-* Enrollments for the next cohorts are starting to trickle in.
 
 ### Student Recruitment
 
-(Erin: Update cohorts and numbers)
+* Our second Try Turing was radically successful, yielding 23 accepted students
+* Our next Try Turing will be in Fort Collins August 27-28, and the next Denver one will be October 1-2. 
+* This summer Turing had tables at career fairs, the Afrikmall Carnival and the Denver International Festival.
+* We will be advertising on the radio on Jammin 101.5 for the next few weeks, culminating in an on-site event where Jammin 101.5 will broadcast live from Turing on September 10. 
+* Our next major recruitment event will be the NoCo Mini Maker Faire in Loveland CO, which is the launch event for Colorado Maker Week. 
 
-* Try Turing was radically successful, yielding over 20 accepted students
-* We've tentatively scheduled 1-2 Try Turing events per month for the rest of the year
-* We're in the process of planning and registering for several local jobs events
-* We decided to end the paid student referral program to be in full compliance with the Veterans Administration guidelines
+(Need more info to update this part) 
+
 * We expect final approval from the VA by the end of the module and can start accepting GI Bill funding shortly thereafter
 
 ## Student Employment with Lia James
