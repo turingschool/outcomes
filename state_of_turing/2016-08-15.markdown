@@ -2,50 +2,42 @@
 
 ## Back-End Program with Josh Mejia
 
-(Josh: Edit all these numbers and cohorts)
-
-### 1511
-
-* 1511 entered Module 4 with 17 students
-* 2 student left early to start working
-* 15 students graduated
-
 ### 1602
 
-* 1602 started Module 3 with 24 students
-* 2 students left the program
-* 1 student is repeating Module 3
-* 1602 starts Module 4 with 21 students
+* 1602 started Module 4 with 21 students
+* 20 students graduated
+* 1 student has transferred to Front-end Mod 2
 
 ### 1603
 
-* 1603 started Module 2 with 17 students
-* 2 students took a leave of absence
-* 15 students moved forward to Module 3
-* 1 student joined from 1602
-* 1 student re-joined the program
-* 1603 starts Module 3 with 17 students
+* 1603 started Module 3 with 17 students
+* 4 students are repeating Module 3
+* 1 student is taking a module off
+* 1603 starts Module 4 with 13 students
 
 ### 1605
 
-* 1605 started Module 1 with 25 students
-* 2 students left the program
-* 1 student took a leave of absence and is returning with 1608
-* 3 students are repeating Module 1
-* 19 students moved forward to Module 2
-* 1 student rejoined the program
-* 1605 starts Module 2 with 20 students
+* 1605 started Module 2 with 20 students
+* 1 student took a leave of absence and is joining 1606-B
+* 19 students moved to Module 3
+* 3 students joined from 1603
+* 1605 starts Module 3 with 22 students
 
-### 1606
+### 1606-B
 
-* 1606 started this week with 17 new students
-* another 3 students are repeating the module
-* all together the group is 20
+* 1606 started with 20 students
+* 15 students are moving on to BE Mod 2
 * 2 students are transferring to FEE
 * 2 students are repeating
 * 1 student is taking a leave of absence
 * 2 students are rejoining the program
 * 1606-B starts Module 2 with 17 students
+
+### 1608-B
+
+* 1608 starts this week with 23 new students
+* 2 students are repeating the module
+* all together the group is 25
 
 ### Staffing
 
