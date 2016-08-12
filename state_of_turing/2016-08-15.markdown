@@ -72,9 +72,13 @@
 * The 1608 front-end cohort begins with 21 and 2 on a waiting list.
 * The 1610 backend cohort is full with a waiting list. Front-end has 14 students and is expected to start with about 18.
 * Total new student enrollment for October will be between 43 and 48. 
-* 1611 has 14 enrolled total.
-* 10 students are already enrolled for 2017 cohorts. 
+* 1611 has 15 enrolled total.
+* 10 students are already enrolled for 2017 cohorts.
 
+### Student Demographics
+* 1608 (BE and FE combined) is 31% women. 
+* 13% identify as people of color. 
+* 4.5% are armed services veterans.
 
 ### Student Recruitment
 
@@ -98,8 +102,8 @@ We currently have:
 * Of those 19 graduated in the most recent cohort
 * 7 graduated with the previous cohort
 * 3 students are near or over 90 days of job hunting post-graduation
-* The 12 students in Module 4 begin job hunting this week
-* A total of 41 job hunters
+* The 13 students in Module 4 begin job hunting this week
+* A total of 42 job hunters
 
 ### Goals & Notes
 
