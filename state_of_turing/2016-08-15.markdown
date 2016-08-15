@@ -83,11 +83,11 @@ This inning:
 
 * The 1608 back-end cohort begins with 26 and 2 on a waiting list.
 * The 1608 front-end cohort begins with 21 and 2 on a waiting list.
-* The 1610 backend cohort is full with a waiting list. Front-end has 14 students and is expected to start with about 18.
-* Total new student enrollment for October will be between 43 and 48.
+* The 1610 backend cohort is full with a waiting list.
+* The 1610 front-end has 14 students and is expected to start with about 18.
+* Total new student enrollment for October will be between 43 and our max of 48.
 * 1611 has 14 enrolled total.
 * 10 students are already enrolled for 2017 cohorts.
-
 
 ### Student Recruitment
 
@@ -127,31 +127,51 @@ We currently have:
 
 Staffing changes from the last inning include:
 
-(Jeff: staffing changes)
+* You already heard about Heidi, Taylor, Mark, Sal, Brenna, and Jhun
+* Sally MacNicholas (1503) is joining staff as a part-time Assistant Instructor working remotely from Nashville
+* Marissa’s contract finished and we're looking for a new Employment Coordinator. Please direct any job-related questions to Lia.
+* Joanne is on maternity leave through this module. Direct any questions to Rachel Martinez.
+* Andrea Moreno is joining Turing as my "Chief of Staff" working remotely for now, arriving in Denver in September.
+* Ellen Mary Hickmann joins us as the Instructional Development Manager
 
 Overall that has us with:
 
-(Jeff: update)
-
-* A total staff of 23
-* 17 are full-time
-* 6 are part-time or short-term
-* 14 women, 9 men
+* A total staff of 26
+* 19 are full-time
+* 7 are part-time or short-term
+* 15 women, 11 men
 
 We're currently looking for:
 
-* ~5 lead and supporting instructors for the front end program
-* ~1-2 supporting instructors or anchors for the back-end program
-* considering an instructional coach
-* considering a personal/executive assistant
+* an Employment Coordinator to assist with job-hunt organization full-time
+* ~3 lead and supporting instructors for the front end program
+* ~2 supporting instructors or anchors for the back-end program
 
-## What’s Next
+## Facilities
 
-(Jeff: update )
+### Guaranty Bank Building
 
-* We're about to sign the lease on the space at 17th and Market. The plan is
-for October 1 but realistically it'll be a few weeks later
-* We're making plans for the temporary space between now and then
-* Tuition will be rising to $20,000 for persons who sign a contract after the last day of this module
-* We've implemented and will soon be talking about a new compensation structure for employees
-* Questions?
+* Lease drafts still going back and forth between lawyers
+* Letter of Credit that we need for the security deposit is scheduled to close on August 19th
+* Demolition has been done
+* Lease still says October 1 occupancy but that seems nearly 0% likelihood
+* November is more like 50% likely
+* Our hard push will be to occupy by November 28 when the new module starts
+
+### Champa Street Space
+
+* We currently have the Champa street space reserved for most of the fall
+* The concern is that the upstairs space is great for running one class but not really good enough for running two classes. Three classes would be nearly impossible.
+* The ground-floor conference rooms are too tight for a group of ~20 to be using computers with tables
+* This space is SUPER CHEAP so we might keep it around for flex space while we’re working out other options
+
+### Gusto
+
+* Our friends at Gusto are in an office space that used to be University of the Rockies
+* We've signed a sublease to use three classrooms on their ground floor
+* We expect to get final approval and access to that space on Wednesday
+* Our sublease goes through December 16th and could be extended if needed
+
+## Closing
+
+* That's it!
