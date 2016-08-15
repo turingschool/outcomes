@@ -175,4 +175,6 @@ We're currently looking for:
 
 ## Closing
 
-* That's it!
+* We'll have some other potential instructors visiting and guest teaching in the coming weeks. Please keep an eye out for them, chat them up, and share your impressions/feedback with us.
+* Our Rocky Mountain Ruby conference is coming up on September 30th. Join us!
+* Lastly, we ask for both your patience and your help, especially this week, as we figure out how to run six cohorts across three office buildings. If we all commit to making it work I'm confident it'll be great.
