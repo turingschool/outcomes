@@ -51,9 +51,10 @@ A few staff changes for the back-end program:
 This inning:
 
 * Jeff, Mike, and Beth continue in Module 1
-* ? Casey anchors Module 2 and is joined by Sal
-* ? Nate anchors Module 3 and I am supporting
-* ? Meeka anchors Module 4 with support from ???
+* Casey anchors Module 2 and is joined by Sal
+* Josh anchors Module 3 with Sally assisting with remote help
+* Andrew will float between 2 and 3
+* Meeka anchors Module 4 with support from Nate
 
 ## Front-End Program with Steve Kinney
 
