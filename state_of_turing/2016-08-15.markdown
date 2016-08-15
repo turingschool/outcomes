@@ -6,7 +6,7 @@
 
 * 1602 started Module 4 with 21 students
 * 20 students graduated
-* 1 student has transferred to Front-end Mod 2
+* 1 student has transferred to the Front-End Program
 
 ### 1603
 
@@ -42,6 +42,19 @@
 
 ### Staffing
 
+A few staff changes for the back-end program:
+
+* Heidi Hoopes has completed her Student Support Fellowship
+* Taylor Moore is stepping to that Fellowship role
+* Sal Espinosa joins the team as a TA
+
+This inning:
+
+* Jeff, Mike, and Beth continue in Module 1
+* ? Casey anchors Module 2 and is joined by Sal
+* ? Nate anchors Module 3 and I am supporting
+* ? Meeka anchors Module 4 with support from ???
+
 ## Front-End Program with Steve Kinney
 
 ### 1608
@@ -71,20 +84,20 @@
 * The 1608 back-end cohort begins with 26 and 2 on a waiting list.
 * The 1608 front-end cohort begins with 21 and 2 on a waiting list.
 * The 1610 backend cohort is full with a waiting list. Front-end has 14 students and is expected to start with about 18.
-* Total new student enrollment for October will be between 43 and 48. 
+* Total new student enrollment for October will be between 43 and 48.
 * 1611 has 14 enrolled total.
-* 10 students are already enrolled for 2017 cohorts. 
+* 10 students are already enrolled for 2017 cohorts.
 
 
 ### Student Recruitment
 
 * Our second Try Turing was radically successful, yielding 23 accepted students
-* Our next Try Turing will be in Fort Collins August 27-28, and the next Denver one will be October 1-2. 
+* Our next Try Turing will be in Fort Collins August 27-28, and the next Denver one will be October 1-2.
 * This summer Turing had tables at career fairs, the Afrikmall Carnival and the Denver International Festival.
-* We will be advertising on the radio on Jammin 101.5 for the next few weeks, culminating in an on-site event where Jammin 101.5 will broadcast live from Turing on September 10. 
-* Our next major recruitment event will be the NoCo Mini Maker Faire in Loveland CO, which is the launch event for Colorado Maker Week. 
+* We will be advertising on the radio on Jammin 101.5 for the next few weeks, culminating in an on-site event where Jammin 101.5 will broadcast live from Turing on September 10.
+* Our next major recruitment event will be the NoCo Mini Maker Faire in Loveland CO, which is the launch event for Colorado Maker Week.
 
-(Need more info to update this part) 
+(Need more info to update this part)
 
 * We expect final approval from the VA by the end of the module and can start accepting GI Bill funding shortly thereafter
 
