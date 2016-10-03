@@ -4,7 +4,14 @@
 
 ### 1603
 
+- Started with 12 students and all 12 graduated
+
 ### 1605
+
+- Started with 22 students
+- 2 left the program
+- 1 student is returning after some time off
+- 1605 moves on to Module 4 with 21 students
 
 ### 1606-B
 
@@ -26,6 +33,14 @@
 - Total class size is 28
 
 ### Staffing
+
+- Ilana Joins as Student Support specialist
+- Lauren will be joining as an Assistant Instructor on October 10th
+- Meeka has moved to the Front-End
+- Module 1 is anchored by Jeff with Beth and Mike supporting
+- Module 2 is Anchored by Casey with Sal supporting
+- Module 3 is anchored by Josh with Sally and Lauren supporting
+- Module 4 is anchored by Nate with Andrew supporting
 
 ## Front-End Program with Steve Kinney
 
