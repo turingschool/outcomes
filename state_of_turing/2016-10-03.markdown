@@ -21,7 +21,7 @@
 
 ### 1608-B
 
-- 1608 started Module 1 with __ students
+- 1608 started Module 1 with 26 students
 - 1 student is taking time off
 - 3 students left the program
 - 5 students are repeating
@@ -30,13 +30,14 @@
 ### 1610-B
 
 - 1610 starts with 23 new students
+- Joined by 5 students repeating Mod 1
 - Total class size is 28
 
 ### Staffing
 
-- Ilana Joins as Student Support specialist
-- Lauren will be joining as an Assistant Instructor on October 10th
-- Meeka has moved to the Front-End
+- Ilana Corsen Joins as a Teaching Assistant and filling the Student Support role
+- Lauren Fazeh will be joining as an Assistant Instructor on October 10th
+- Meeka has moved to the Front-End program to teach Mod 2
 - Module 1 is anchored by Jeff with Beth and Mike supporting
 - Module 2 is Anchored by Casey with Sal supporting
 - Module 3 is anchored by Josh with Sally and Lauren supporting
