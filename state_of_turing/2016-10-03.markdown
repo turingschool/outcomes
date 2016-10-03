@@ -62,13 +62,14 @@
 ### 1610-f
 
 - 18 new students join us in Module 1
-  - For a total of 21 students
+- They are joined by 3 folks repeating Mod 1
+- For a total of 21 students
 
 ### Staffing
 
-- Kris joins as student support specialist
-- Robbie and Taylor are joining as TAs
-- Brittany started in the middle of last module.
+- Kris Foss joins part-time in the Student Support role
+- Robbie Jaeger and Taylor Moore are joining as TAs
+- Brittany Storoz started in the middle of last module.
   - She is remote from Boston, but here today
 - Meeka has moved from the back-end program to the front-end program.
 - Module 1 is anchored by Louisa with support from Bree and Robbie
