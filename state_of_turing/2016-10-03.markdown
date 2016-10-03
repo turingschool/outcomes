@@ -8,9 +8,22 @@
 
 ### 1606-B
 
+- Started with 17 students
+- 1 is repeating
+- Moving to Module 3 with 16 students
+
 ### 1608-B
 
+- 1608 started Module 1 with __ students
+- 1 student is taking time off
+- 3 students left the program
+- 5 students are repeating
+- 17 students are moving on to Module 2
+
 ### 1610-B
+
+- 1610 starts with 23 new students
+- Total class size is 28
 
 ### Staffing
 
