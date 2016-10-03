@@ -80,11 +80,39 @@
 
 ### Enrollments Snapshot
 
+* Both 1610 cohorts begin today with full rosters for 41 new students
+* The November backend cohort is 67% full with 16 students
+* November's frontend is 83% full with 15 students
+* January's 1701 cohorts are 46% full on the backend and 28% full on the front-end
+
+### Student Demographics
+
+Our 1610 cohort starting today is:
+
+* 40% women
+* 22% people of color
+* 5% veterans
+
+Some jobs held by students prior to joining Turing include teacher, financial analyst, marketing manager, cook, business owner, and aircraft mechanic.
+
 ### Student Recruitment
+
+* This last weekend our Try Turing event had over 40 attendees
+* Based on past results, those Try Turing people will fill the November and
+partially fill the January cohorts
+* We are hosting a one-day Try Turing in Kansas City on October 22nd.
+* Next Denver Try Turing is December 3-4 and will include child care.
+* We are underwriting on Colorado Public Radio this month, sponsoring Science Fridays.
+* Turing will be attending the NoCo Mini Maker Faire this weekend showcasing a live Game Time arcade and a USB Typewriter.
+
+Most importantly, we were finally approved by the Veterans Administration to
+accept GI Bill benefits. We're excited that Turing can now be more accessible
+to veterans and their families.
 
 ## Student Employment with Lia James
 
 ### Jobs & Job Hunters
+
 - 22 graduates hunting for their first job offer
 - Of those, 9 graduated in the most recent cohort
 - 12 graduated with the previous cohort
@@ -92,14 +120,67 @@
 - The 21 students in Module 4 begin job hunting this week
 - A total of 43 job hunters
 
-### Goals & Notes
+Some of our recent jobs include:
+
+* X accepted a job with Y in Z
+* X accepted a job with Y in Z
+* X accepted a job with Y in Z
 
 ## Staffing with Jeff Casimir
 
+You heard about Brittany, Robbie, Taylor, Kris, Ilana, and Lauren already on the
+instructional teams. In addition:
+
+* Meg Stewart has joined full-time as the Employment Coordinator to support Lia on the jobs team.
+* Amy Stokke has joined part-time as the Facilities Coordinator to help manage all these offices
+* Joanne Liu will be back from maternity leave mid-module but working remotely into November
+* Jorge Téllez will be heading out on paternity leave mid-module
+
+We'll also continue to have a few candidates in to teach sample lessons this module and would love your feedback.
+
 ## Facilities
+
+We've experimented a bit with a student-accessible system for posting and
+discussing facilities and other operations ideas or issues. In the next week we'll
+roll out a system/plan for that for the long-term.
 
 ### Guaranty Bank Building
 
-### Gusto
+#### Basement aka The Permanent Space
+
+* Lease and permits done, contractors selected, finishes ordered
+* Everyone is planning on January 2nd availability
+
+#### Suite 300
+
+* Have access now approximately 7am-6pm
+* Front door of the building has a security guard but you can just walk in during normal hours
+* Front door of the building accessible with white security card in some other hours
+* Suite locks/unlocks with a traditional key. Unlock is a push-button.
+* No special access/keys needed for students
+* Has decent accessible wifi “ZRG Guest” which is next door and ok to use (the building ownership group)
+* Fiber line ordered from Forethought.net and trying for an ASAP install. Some
+wiring is taking place today and hope to have it up by the end of the week.
+
+#### Other Plans
+
+It is likely the case that the building will let us borrow another space (free) to use as a classroom for the module Nov-Jan or until the basement is ready.
 
 ## Closing
+
+### Holiday Calendar
+
+Take note of the calendar for the next few months:
+
+* The week of November 14-18 is Intermission Week
+* The week of November 21-25 we're off for Thanksgiving
+* For Winter holidays we have just six days off: December 26 to January 2
+* Class resumes on January 3
+
+### Evening Events
+
+You're strongly encouraged to join two events this week:
+
+Tomorrow we'll host Steve Case's "Rise of Rest Tour" in the morning. In the evening there's a pitch event with free food and drink -- we'd love to see 100 Turing people there. RSVP: https://nvite.com/riseofrest/denver
+
+Then Thursday evening we'll have Demos for our top projects from last module. It'll take place at 5:30pm at the Point Gallery at 765 Santa Fe. Students from both programs and all modules are *strongly* encouraged to attend and celebrate the great work.
