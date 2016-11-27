@@ -33,7 +33,7 @@
 
 ### Staffing
 
-- Alex Tideman and Nathaniel Foster join as Assistant Instructors.
+- Alex Tideman and Nathaniel Forster join as Assistant Instructors.
 - Module 1 is anchored by Louisa with support from Bree and Robbie.
 - Module 2 is anchored by Jhun with support from Meeka.
 - Module 3 is anchored by Brenna with support from Taylor, Nathaniel, Steve, and Jeff.
@@ -42,10 +42,22 @@
 ## Enrollments & Admissions with Erin Williams
 
 ### Enrollments Snapshot
+- 1611 Back End begins with 24 new students.
+- 1611 Front End begins with 17 new students.
+- 1701 Back End is fully enrolled with one on the waitlist.
+- 1701 Front End is 50% enrolled.
+- 1703 is 15% enrolled between both programs.
 
 ### Student Demographics
+- 1611 is 37% women
+- With the introduction of the GI Bill, we have 3 veterans joining us (7%). 
+- Of those who responded, 20% identify as people of color. 
+- Former careers include firefighter, teacher, bicycle mechanic, electrician, and analyst. 
 
 ### Student Recruitment
+- We are focusing all our recruitment efforts on Try Turing.
+- Next Try Turing is this weekend, with 56 confirmed attendees and 5 on the waiting list. 
+- The next full weekend Try Turing will be January 28-29. We will hold two per module, one two-day and one one-day event. 
 
 ## Student Employment with Lia James
 
@@ -53,40 +65,20 @@
 
 ## Staffing with Jeff Casimir
 
-We're thankfully slowing down on staff changes. This inning:
-
-* Alex Tideman, a Turing alum, joined the front end team where he'll be bringing solid JavaScript and React experience to the upper modules
-* Nathaniel Foster joins the front-end program after years of building software, most recently building mobile apps with JavaScript via Cordova
-* Jorge Téllez will be returning from paternity leave during the module
-
 ## Facilities
 
 ### Guaranty Bank Building
 
 #### Basement aka The Permanent Space
 
-* All is on-track with the new space
-* We expect to move into the new space during the next intermission week
-
 #### Suite 300
 
-* Continue to use S300
-* Home to Front-End Mod 4
-* Also used for guest speakers
+#### Campus Four
 
-#### Conference Room
-
-* Across the street from GBank at 1401 17th Street
-* Just a single room that'll be used by Front-End Mod 3
-
-#### Other Places
-
-* Gusto and the Basement stay as-is during this module
+#### Other Plans
 
 ## Closing
 
-* Reminder that we'll be closed on Friday the 23rd and Monday the 2nd
-* We won't be affected by MLK day because it falls on the intermission week
-* Both programs at "full-size"
-* Hopefully the last module of being spread out across buildings
-* Our first Second Shift course starts in January
+### Holiday Calendar
+
+### Evening Events
