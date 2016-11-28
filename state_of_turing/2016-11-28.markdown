@@ -6,17 +6,13 @@
 
 - Started with 21 students
 - 1 left early for employment
+- 4 have not graduated
 - 15 have graduated
-
-Needs updating...
-
-- 4 have the option to repeat
-- 1 is pending
 
 ### 1606
 
 - Started M3 with 16 students
-- Starting M4 with 14 + ??? (repeaters)
+- Starting M4 with 14
 - 2 students are repeating
 
 ### 1608
@@ -42,7 +38,7 @@ Needs updating...
 - Module 2 is Anchored by Casey with Sal supporting
 - Module 3 is anchored by Josh with Lauren and Sally supporting
 - Module 4 is anchored by Andrew with Jeff supporting
-- Nate is playing the role of Swiss army knife and will help wherever we need it
+- Nate will float and help wherever we need it
 
 ## Front-End Program with Steve Kinney
 
@@ -74,15 +70,21 @@ Needs updating...
 
 ### Staffing
 
-- Alex Tideman and Nathaniel Foster join as Assistant Instructors.
+- Alex Tideman and Nathaniel Forster join as Assistant Instructors.
 - Module 1 is anchored by Louisa with support from Bree and Robbie.
 - Module 2 is anchored by Jhun with support from Meeka.
 - Module 3 is anchored by Brenna with support from Taylor, Nathaniel, Steve, and Jeff.
 - Module 4 is anchored by Steve with support from Alex.
 
+
 ## Enrollments & Admissions with Erin Williams
 
 ### Enrollments Snapshot
+- 1611 Back End begins with 24 new students.
+- 1611 Front End begins with 17 new students.
+- 1701 Back End is fully enrolled with one on the waitlist.
+- 1701 Front End is 50% enrolled.
+- 1703 is 15% enrolled between both programs.
 
 - 1611 Back End begins with 24 new students.
 - 1611 Front End begins with 17 new students.
@@ -91,6 +93,10 @@ Needs updating...
 - 1703 is 15% enrolled between both programs.
 
 ### Student Demographics
+- 1611 is 37% women
+- With the introduction of the GI Bill, we have 3 veterans joining us (7%). 
+- Of those who responded, 20% identify as people of color. 
+- Former careers include firefighter, teacher, bicycle mechanic, electrician, and analyst. 
 
 - 1611 is 37% women
 - With the introduction of the GI Bill, we have 3 veterans joining us (7%).
@@ -98,6 +104,9 @@ Needs updating...
 - Former careers include firefighter, teacher, bicycle mechanic, electrician, and analyst.
 
 ### Student Recruitment
+- We are focusing all our recruitment efforts on Try Turing.
+- Next Try Turing is this weekend, with 56 confirmed attendees and 5 on the waiting list. 
+- The next full weekend Try Turing will be January 28-29. We will hold two per module, one two-day and one one-day event. 
 
 - We are focusing all our recruitment efforts on Try Turing.
 - Next Try Turing is this weekend, with 56 confirmed attendees and 5 on the waiting list.
