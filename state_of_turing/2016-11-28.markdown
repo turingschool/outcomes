@@ -84,9 +84,24 @@ Needs updating...
 
 ### Enrollments Snapshot
 
+- 1611 Back End begins with 24 new students.
+- 1611 Front End begins with 17 new students.
+- 1701 Back End is fully enrolled with one on the waitlist.
+- 1701 Front End is 50% enrolled.
+- 1703 is 15% enrolled between both programs.
+
 ### Student Demographics
 
+- 1611 is 37% women
+- With the introduction of the GI Bill, we have 3 veterans joining us (7%).
+- Of those who responded, 20% identify as people of color.
+- Former careers include firefighter, teacher, bicycle mechanic, electrician, and analyst.
+
 ### Student Recruitment
+
+- We are focusing all our recruitment efforts on Try Turing.
+- Next Try Turing is this weekend, with 56 confirmed attendees and 5 on the waiting list.
+- The next full weekend Try Turing will be January 28-29. We will hold two per module, one two-day and one one-day event.
 
 ## Student Employment with Lia James
 
