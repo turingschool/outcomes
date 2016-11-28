@@ -2,6 +2,47 @@
 
 ## Back-End Program with Josh Mejia
 
+### 1605
+
+- Started with 21 students
+- 1 left early for employment
+- 15 have graduated
+
+Needs updating...
+
+- 4 have the option to repeat
+- 1 is pending
+
+### 1606
+
+- Started M3 with 16 students
+- Starting M4 with 14 + ??? (repeaters)
+- 2 students are repeating
+
+### 1608
+
+- Started M2 with 18 students
+- All 18 are moving on to M3
+- They'll be joined with 2 students repeating for a total of 20 students
+
+### 1610
+
+- Started M1 with 25
+- 5 are repeating
+- 20 are moving on to M2
+
+### 1611
+
+- Starts with 25 new students
+- With the 5 students repeating there will be a total of 30 students to begin M1
+
+### Staffing
+
+- Module 1 is anchored by Beth with Mike and Ilana supporting
+- Module 2 is Anchored by Casey with Sal supporting
+- Module 3 is anchored by Josh with Lauren and Sally supporting
+- Module 4 is anchored by Andrew with Jeff supporting
+- Nate is playing the role of Swiss army knife and will help wherever we need it
 
 ## Front-End Program with Steve Kinney
 
