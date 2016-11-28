@@ -6,17 +6,13 @@
 
 - Started with 21 students
 - 1 left early for employment
+- 4 have not graduated
 - 15 have graduated
-
-Needs updating...
-
-- 4 have the option to repeat
-- 1 is pending
 
 ### 1606
 
 - Started M3 with 16 students
-- Starting M4 with 14 + ??? (repeaters)
+- Starting M4 with 14
 - 2 students are repeating
 
 ### 1608
@@ -42,7 +38,7 @@ Needs updating...
 - Module 2 is Anchored by Casey with Sal supporting
 - Module 3 is anchored by Josh with Lauren and Sally supporting
 - Module 4 is anchored by Andrew with Jeff supporting
-- Nate is playing the role of Swiss army knife and will help wherever we need it
+- Nate will float and help wherever we need it
 
 ## Front-End Program with Steve Kinney
 
