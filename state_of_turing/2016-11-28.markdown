@@ -125,40 +125,20 @@ Some of our recent accepted jobs include:
 
 ## Staffing with Jeff Casimir
 
-We're thankfully slowing down on staff changes. This inning:
-
-* Alex Tideman, a Turing alum, joined the front end team where he'll be bringing solid JavaScript and React experience to the upper modules
-* Nathaniel Foster joins the front-end program after years of building software, most recently building mobile apps with JavaScript via Cordova
-* Jorge Téllez will be returning from paternity leave during the module
-
 ## Facilities
 
 ### Guaranty Bank Building
 
 #### Basement aka The Permanent Space
 
-* All is on-track with the new space
-* We expect to move into the new space during the next intermission week
-
 #### Suite 300
 
-* Continue to use S300
-* Home to Front-End Mod 4
-* Also used for guest speakers
+#### Campus Four
 
-#### Conference Room
-
-* Across the street from GBank at 1401 17th Street
-* Just a single room that'll be used by Front-End Mod 3
-
-#### Other Places
-
-* Gusto and the Basement stay as-is during this module
+#### Other Plans
 
 ## Closing
 
-* Reminder that we'll be closed on Friday the 23rd and Monday the 2nd
-* We won't be affected by MLK day because it falls on the intermission week
-* Both programs at "full-size"
-* Hopefully the last module of being spread out across buildings
-* Our first Second Shift course starts in January
+### Holiday Calendar
+
+### Evening Events
