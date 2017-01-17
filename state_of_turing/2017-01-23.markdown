@@ -4,20 +4,38 @@
 
 ### 1606
 
+* Started with 14 students
+* All 14 graduated
+
 ### 1608
+
+* Started with 20 students
+* 1 student left the program
+* 19 students are moving on to Module 4
 
 ### 1610
 
+* Started with 20 students
+* All 20 are moving on to Module 3
+
 ### 1611
+
+* Started with 30 students
+* 5 have left the program
+* 7 are repeating
+* 18 are moving on to Module 2
 
 ### 1701
 
+* Starts with 23 new students
+* With 7 students repeating there is a total of 30 students in Module 1
+
 ### Staffing
 
-- Module 1 is anchored by
-- Module 2 is anchored by
-- Module 3 is anchored by
-- Module 4 is anchored by
+- Module 1 is anchored by Beth with Lauren and Ilana supporting
+- Module 2 is anchored by Andrew with Sal supporting
+- Module 3 is coanchored by Casey and Josh with Sally supporting
+- Module 4 is anchored by Jeff with Nate and Mike supporting
 
 ## Front-End Program with Meeka Gayhart
 
