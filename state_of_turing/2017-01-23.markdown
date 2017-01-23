@@ -84,12 +84,43 @@ Some of our recent accepted jobs include:
 
 This inning we've got a bunch of people changing responsibilities:
 
-*
+* Erin Williams goes from Admissions & Enrollment Coordinator to Admissions & Enrollment Manager
+* Jorge Téllez has returned from paternity leave back to his role as the Director of Growth & Operations
+* Ellen Mary Hickmann goes from Instructional Development Manager to Director of Professional Learning
+* Steve Kinney goes on leave for a module
+* Meeka Gayhart goes from Instructor to Director of Front End Engineering
+* Brenna Martenson goes from Assistant Instructor to Associate Instructor
+* Jhun de Andres goes from Assistant Instructor to Associate Instructor
+* Louisa Barrett goes from Instructor to Instructor & Design Curriculum Lead
+* Sal Espinosa goes from Teaching Assistant to Assistant Instructor
+* Lauren Fazah goes from Teaching Assistant to Associate Instructor
+* Beth Sebian goes from Assistant Instructor to Associate Instructor & Gear Up Lead
+* Andrea Moreno, formerly Chief of Staff, has departed
+* Amy Stokke, formerly Facilities Coordinator, has departed
+
+What will probably stand out to you most is that Steve, having spent most of the last year working way far too many hours to launch the front-end program, is taking a well deserved break for the whole inning. Meeka will be stepping into both the Director role and laying out the vision for Front-End Mod 4.
 
 ## Facilities
 
 ### Guaranty Bank Building
 
+* White boards are still on their way
+* Bathrooms still being finished
+* Still lots of small things to setup / wire up / etc
+* Your help is welcome, please just check-in with a staff member
+* Let us know if you spot WiFi "deadspots"
+* Rachel Martinez is a great point person for facilities questions
+
 #### 1510 Blake & Gusto & Suite 300 & The Conference Room
 
+All our other spaces are closed at this point.
+
+## 2017 Achievements with Jeff Casimir
+
+I've laid out a set of 10 achievements that we'll work towards this year. [We'll quickly go over them now](https://github.com/turingschool/outcomes/blob/master/achievements/2017-year-end.markdown) and report on progress each inning.
+
 ## Closing
+
+* Thanks for your flexibility and support this week
+* Please be extra encouraged to introduce yourself to people you don't know
+* Thank you for being students
