@@ -41,44 +41,98 @@
 
 ### 1606
 
+- Started with 15
+- 2 left early for jobs
+
 ### 1608
+
+- Started with 15
+- All 15 are moving on
 
 ### 1610
 
+- Started with 18
+- 1 repeating
+- 1 dropped
+
 ### 1611
+
+- Started with 19
+- 3 repeating
+- 3 taking an inning off
 
 ### 1701
 
+- Starting with 26
 
 ### Staffing
 
-- Module 1 is anchored by
-- Module 2 is anchored by
-- Module 3 is anchored by
-- Module 4 is anchored by
+- Module 1 is co-anchored by Louisa and Bree with Robbie Supporting
+- Module 2 is anchored by Jhum with Nathaniel Supporting
+- Module 3 is anchored by Brenna with Taylor Supporting
+- Module 4 is co-anchored by Meeka and Alex with Brittany Supporting (and Jeff occasionally sneaking in) 
 
 ## Enrollments & Admissions with Erin Williams
 
 ### Enrollments Snapshot
 
-- 1701 Back End begins with XX new students.
-- 1701 Front End begins with XX new students.
-- 1703 Back End is XX
-- 1703 Front End is XX
-- 1705 is XX
+- 1701 Back End begins with 24 new students.
+- 1701 Front End begins with 22 new students.
+- 1703 Back End is full with 26 new students enrolled.
+- 1703 Front End is 50% full with 12 students enrolled.
+- 1705 is 17% full with 8 students enrolled. 
 
 ### Student Demographics
 
+The following are based on students who responded to the optional demographic survey:
+
+- 21% of students in 1701 identify as a person of color. 
+- 39% are women.
+- 17% identify as LGBT.
+- 7% are veterans of the armed forces.
+- Some previous jobs include cab driver, horticulturalist, teacher, geologist, VP Marketing, operations manager, and librarian.
 
 ### Student Recruitment
+
+- We will be hosting 1-2 Try Coding events every inning.
+- 48 people are signed up for this upcoming weekend, January 28th and 29th. 
+- Our next event will be a front-end only Saturday on February 18th. 
+- Second Shift, our evening class, begins its first session tomorrow, and will run for 6 weeks on Tuesday and Thursday evenings. 
 
 ## Student Employment with Lia James
 
 ### Job Hunters
+* 39 graduates hunting for their first job offer
+* Of those, 23 graduated in the most recent cohort
+* 9 graduated with the previous cohort
+* 7 students are near or over 90 days of job hunting post-graduation
 
 ### Recent Jobs
 
-Some of our recent accepted jobs include:
+Some of our recent jobs include:
+* Granicus (Denver) hired: 
+  * Drew Thompson
+  * Tommasina Miller
+  * Greg Armstrong (alum on second job)
+  * Susi Irwin (Offer received week 1 of mod 4)
+* Cognizant (nationwide) hired:
+  * Chris Concannon
+  * Paul Nguyen (mid-mod 4)
+* Thoughtworks (Chicago) hired:
+  * Nick Pisciotta
+  * Erin Greenhalgh
+* GoSpotCheck (Denver) hired:
+  * Jean Joeris
+  * Lucy Fox
+* Ryan Batty accepted Semantic Arts (Fort Collins)
+* Roberta Doyle accepted Unsplash (remote)
+* Anna Weisbrodt accepted CodeTheory (Seattle)
+* Kerry Sheldon accepted The Rockies (Denver)
+* Ryan Flach accepted Elastic Suite (Denver)
+* Brett Hevia accepted WillowTree (Virginia)
+* Pat Wentz accepted 8th Light (Chicago)
+* Sonia Gupta accepted Tokken (Denver)
+
 
 ## Staffing with Jeff Casimir
 
