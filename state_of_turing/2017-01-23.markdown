@@ -70,7 +70,7 @@
 - Module 1 is co-anchored by Louisa and Bree with Robbie Supporting
 - Module 2 is anchored by Jhum with Nathaniel Supporting
 - Module 3 is anchored by Brenna with Taylor Supporting
-- Module 4 is co-anchored by Meeka and Alex with Brittany Supporting (and Jeff occasionally sneaking in) 
+- Module 4 is co-anchored by Meeka and Alex with Brittany Supporting (and Jeff occasionally sneaking in)
 
 ## Enrollments & Admissions with Erin Williams
 
@@ -80,13 +80,13 @@
 - 1701 Front End begins with 22 new students.
 - 1703 Back End is full with 26 new students enrolled.
 - 1703 Front End is 50% full with 12 students enrolled.
-- 1705 is 17% full with 8 students enrolled. 
+- 1705 is 17% full with 8 students enrolled.
 
 ### Student Demographics
 
 The following are based on students who responded to the optional demographic survey:
 
-- 21% of students in 1701 identify as a person of color. 
+- 21% of students in 1701 identify as a person of color.
 - 39% are women.
 - 17% identify as LGBT.
 - 7% are veterans of the armed forces.
@@ -95,9 +95,9 @@ The following are based on students who responded to the optional demographic su
 ### Student Recruitment
 
 - We will be hosting 1-2 Try Coding events every inning.
-- 48 people are signed up for this upcoming weekend, January 28th and 29th. 
-- Our next event will be a front-end only Saturday on February 18th. 
-- Second Shift, our evening class, begins its first session tomorrow, and will run for 6 weeks on Tuesday and Thursday evenings. 
+- 48 people are signed up for this upcoming weekend, January 28th and 29th.
+- Our next event will be a front-end only Saturday on February 18th.
+- Second Shift, our evening class, begins its first session tomorrow, and will run for 6 weeks on Tuesday and Thursday evenings.
 
 ## Student Employment with Lia James
 
@@ -110,7 +110,7 @@ The following are based on students who responded to the optional demographic su
 ### Recent Jobs
 
 Some of our recent jobs include:
-* Granicus (Denver) hired: 
+* Granicus (Denver) hired:
   * Drew Thompson
   * Tommasina Miller
   * Greg Armstrong (alum on second job)
@@ -149,6 +149,7 @@ This inning we've got a bunch of people changing responsibilities:
 * Sal Espinosa goes from Teaching Assistant to Assistant Instructor
 * Lauren Fazah goes from Teaching Assistant to Associate Instructor
 * Beth Sebian goes from Assistant Instructor to Associate Instructor & Gear Up Lead
+* Mary Cutrali is no longer coordinating mentoring. Mentoring-related questions can be directed to Allison.
 * Andrea Moreno, formerly Chief of Staff, has departed
 * Amy Stokke, formerly Facilities Coordinator, has departed
 
