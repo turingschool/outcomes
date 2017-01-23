@@ -96,19 +96,19 @@ The following are based on students who responded to the optional demographic su
 
 Some of our recent jobs include:
 * Granicus (Denver) hired: 
-  *Drew Thompson
-  *Tommasina Miller
-  *Greg Armstrong (alum on second job)
-  *Susi Irwin (Offer received week 1 of mod 4)
+  * Drew Thompson
+  * Tommasina Miller
+  * Greg Armstrong (alum on second job)
+  * Susi Irwin (Offer received week 1 of mod 4)
 * Cognizant (nationwide) hired:
-  *Chris Concannon
-  *Paul Nguyen (mid-mod 4)
+  * Chris Concannon
+  * Paul Nguyen (mid-mod 4)
 * Thoughtworks (Chicago) hired:
-  *Nick Pisciotta
-  *Erin Greenhalgh
+  * Nick Pisciotta
+  * Erin Greenhalgh
 * GoSpotCheck (Denver) hired:
-  *Jean Joeris
-  *Lucy Fox
+  * Jean Joeris
+  * Lucy Fox
 * Ryan Batty accepted Semantic Arts (Fort Collins)
 * Roberta Doyle accepted Unsplash (remote)
 * Anna Weisbrodt accepted CodeTheory (Seattle)
