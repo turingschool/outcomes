@@ -87,10 +87,37 @@ The following are based on students who responded to the optional demographic su
 ## Student Employment with Lia James
 
 ### Job Hunters
+* 39 graduates hunting for their first job offer
+* Of those, 23 graduated in the most recent cohort
+* 9 graduated with the previous cohort
+* 7 students are near or over 90 days of job hunting post-graduation
 
 ### Recent Jobs
 
-Some of our recent accepted jobs include:
+Some of our recent jobs include:
+* Granicus (Denver) hired: 
+  *Drew Thompson
+  *Tommasina Miller
+  *Greg Armstrong (alum on second job)
+  *Susi Irwin (Offer received week 1 of mod 4)
+* Cognizant (nationwide) hired:
+  *Chris Concannon
+  *Paul Nguyen (mid-mod 4)
+* Thoughtworks (Chicago) hired:
+  *Nick Pisciotta
+  *Erin Greenhalgh
+* GoSpotCheck (Denver) hired:
+  *Jean Joeris
+  *Lucy Fox
+* Ryan Batty accepted Semantic Arts (Fort Collins)
+* Roberta Doyle accepted Unsplash (remote)
+* Anna Weisbrodt accepted CodeTheory (Seattle)
+* Kerry Sheldon accepted The Rockies (Denver)
+* Ryan Flach accepted Elastic Suite (Denver)
+* Brett Hevia accepted WillowTree (Virginia)
+* Pat Wentz accepted 8th Light (Chicago)
+* Sonia Gupta accepted Tokken (Denver)
+
 
 ## Staffing with Jeff Casimir
 
