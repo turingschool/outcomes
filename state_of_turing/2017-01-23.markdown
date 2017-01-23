@@ -61,16 +61,28 @@
 
 ### Enrollments Snapshot
 
-- 1701 Back End begins with XX new students.
-- 1701 Front End begins with XX new students.
-- 1703 Back End is XX
-- 1703 Front End is XX
-- 1705 is XX
+- 1701 Back End begins with 24 new students.
+- 1701 Front End begins with 22 new students.
+- 1703 Back End is full with 26 new students enrolled.
+- 1703 Front End is 50% full with 12 students enrolled.
+- 1705 is 17% full with 8 students enrolled. 
 
 ### Student Demographics
 
+The following are based on students who responded to the optional demographic survey:
+
+- 21% of students in 1701 identify as a person of color. 
+- 39% are women.
+- 17% identify as LGBT.
+- 7% are veterans of the armed forces.
+- Some previous jobs include cab driver, horticulturalist, teacher, geologist, VP Marketing, operations manager, and librarian.
 
 ### Student Recruitment
+
+- We will be hosting 1-2 Try Coding events every inning.
+- 48 people are signed up for this upcoming weekend, January 28th and 29th. 
+- Our next event will be a front-end only Saturday on February 18th. 
+- Second Shift, our evening class, begins its first session tomorrow, and will run for 6 weeks on Tuesday and Thursday evenings. 
 
 ## Student Employment with Lia James
 
